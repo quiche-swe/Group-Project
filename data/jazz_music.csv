@@ -1,0 +1,474 @@
+"","reviewid","label","genre","title","artist","score","best_new_music","pub_month","pub_year","genre_occurrences","label_count"
+"1",22707,"challenge","jazz","swiss radio days vol. 41 - zurich 1961","ray charles",9,1,12,2016,473,1
+"2",22664,"eremite","jazz","slight freedom","jeff parker",8,0,12,2016,473,4
+"3",22660,"ahead of our time","jazz","only heaven","coldcut",5.2,0,12,2016,473,2
+"4",22639,"strut","jazz","singles","sun ra",8.7,1,12,2016,473,32
+"5",22652,"nna tapes","jazz","amore per tutti","tredici bacci",7,0,12,2016,473,11
+"6",22465,"northern spy","jazz","amalgam","okkyung lee, christian marclay",8,0,11,2016,473,30
+"7",22347,"firehouse 12","jazz","away with you","mary halvorson",8,0,11,2016,473,5
+"8",22520,"cold spring","jazz","strange city (cd)","sun ra, merzbow",7.3,0,11,2016,473,3
+"9",22554,"legacy","jazz","freedom jazz dance: the bootleg series, vol. 5","miles davis quintet",7.5,0,11,2016,473,57
+"10",22554,"columbia","jazz","freedom jazz dance: the bootleg series, vol. 5","miles davis quintet",7.5,0,11,2016,473,242
+"11",22483,"motma","jazz","beyond now","donny mccaslin",6.4,0,10,2016,473,1
+"12",22516,"pi","jazz","moving still","jonathan finlayson & sicilian defense",8.1,0,10,2016,473,10
+"13",22497,"cuneiform","jazz","america's national parks","wadada leo smith",7.9,0,10,2016,473,9
+"14",22307,"blue note","jazz","day breaks","norah jones",6.9,0,10,2016,473,30
+"15",22299,"new amsterdam","jazz","real enemies","darcy james argue's secret society",8.3,0,10,2016,473,18
+"16",22312,"blue note","jazz","artscience","robert glasper experiment",7.6,0,9,2016,473,30
+"17",22358,"northern spy","jazz","cactus","matthew shipp, bobby kapp",7.6,0,9,2016,473,30
+"18",22342,"stretch","jazz","circle 1: live in germany concert","circle",8.1,0,9,2016,473,1
+"19",22342,"concord music group","jazz","circle 1: live in germany concert","circle",8.1,0,9,2016,473,1
+"20",22271,"be with","jazz","funk factory","funk factory",7.3,0,9,2016,473,2
+"21",22239,"pi","jazz","slbyone","steve lehman, slbyone",8.1,0,8,2016,473,10
+"22",22188,"blue note","jazz","lovers","nels cline",7.6,0,8,2016,473,30
+"23",22159,"philips","jazz","in concert","nina simone",10,0,7,2016,473,8
+"24",22109,"innovative leisure","jazz","iv","badbadnotgood",7.1,0,7,2016,473,15
+"25",22015,"roadrunner","jazz","magma","gojira",7.6,0,7,2016,473,20
+"26",22038,"modern harmonic","jazz","john cage meets sun ra: the complete concert","john cage, sun ra",7.5,0,6,2016,473,2
+"27",22007,"nonesuch","jazz","american tunes","allen toussaint",7.2,0,6,2016,473,83
+"28",22002,"firehouse 12","jazz","argonautica","nate wooley",7.7,0,6,2016,473,5
+"29",21821,"legacy","jazz","everything's beautiful","robert glasper, miles davis",7.4,0,5,2016,473,57
+"30",21821,"columbia","jazz","everything's beautiful","robert glasper, miles davis",7.4,0,5,2016,473,242
+"31",21821,"blue note","jazz","everything's beautiful","robert glasper, miles davis",7.4,0,5,2016,473,30
+"32",21721,"ecm","jazz","andando el tiempo","carla bley",7.8,0,5,2016,473,16
+"33",21918,"prestige","jazz","the complete prestige 10-inch lp collection","miles davis",8.4,0,5,2016,473,1
+"34",21678,"decca","jazz","take me to the alley","gregory porter",6.7,0,5,2016,473,10
+"35",21678,"blue note","jazz","take me to the alley","gregory porter",6.7,0,5,2016,473,30
+"36",21817,"ecm","jazz","in movement","jack dejohnette, ravi coltrane, matthew garrison",8.3,0,5,2016,473,16
+"37",21797,"jackpot records","jazz","at last!","etta james",9,0,4,2016,473,1
+"38",21799,"resonance","jazz","some other time: the lost session from the black forest ","bill evans",8.4,1,4,2016,473,2
+"39",21674,"pi recordings","jazz","old locks and irregular verbs","henry threadgill, ensemble double-up",8,0,4,2016,473,1
+"40",21535,"firehouse 12","jazz","3 compositions (eemhm) 2011","anthony braxton",8.2,0,3,2016,473,5
+"41",21518,"ecm","jazz","a cosmic rhythm with each stroke","vijay iyer, wadada leo smith",8.5,1,3,2016,473,16
+"42",21575,"emi","jazz","emilys d+evolution","esperanza spalding",8.6,1,3,2016,473,107
+"43",21463,"blue note","jazz","man made object","gogo penguin",7.5,0,2,2016,473,30
+"44",21345,"esp-disk","jazz","bells/prophecy","albert ayler",8.4,0,1,2016,473,2
+"45",21350,"ecm","jazz","the bell","ches smith",7.6,0,1,2016,473,16
+"46",21158,"verve","jazz","a love supreme: the complete masters","john coltrane",10,1,11,2015,473,9
+"47",21106,"spinefarm","jazz","international blackjazz society","shining",7,0,10,2015,473,4
+"48",21105,"ropeadope","jazz","stretch music","christian scott",7.5,0,10,2015,473,7
+"49",21027,"firehouse 12","jazz","meltframe","mary halvorson",8,0,9,2015,473,5
+"50",20816,"columbia","jazz","miles davis at newport 1955-1975: the bootleg series vol. 4","miles davis",8,0,7,2015,473,242
+"51",20816,"legacy","jazz","miles davis at newport 1955-1975: the bootleg series vol. 4","miles davis",8,0,7,2015,473,57
+"52",20787,"light in the attic","jazz","don't just sing | an anthology: 1963-1999","karin krog",8,0,7,2015,473,61
+"53",20754,"grnland","jazz","the conny plank session","duke ellington",7.8,0,7,2015,473,11
+"54",20652,"greenleaf","jazz","high risk","dave douglas",7.6,0,6,2015,473,2
+"55",20573,"blue note","jazz","covered","robert glasper trio",6.7,0,6,2015,473,30
+"56",20505,"destination: out","jazz","the complete cecil taylor in berlin '88","cecil taylor",8.4,1,5,2015,473,1
+"57",20557,"brainfeeder","jazz","the epic","kamasi washington",8.6,1,5,2015,473,28
+"58",20482,"alpha pup","jazz","mars is a very bad place for love","the breathing effect",7.9,0,4,2015,473,9
+"59",20196,"lex","jazz","sour soul","ghostface killah, badbadnotgood",6.2,0,2,2015,473,39
+"60",20025,"constellation","jazz","coin coin chapter three: river run thee","matana roberts",8.2,0,2,2015,473,56
+"61",20090,"northern spy","jazz","xe","zs",8,0,1,2015,473,30
+"62",19984,"glitterbeat","jazz","fourth world vol. 1: possible musics","brian eno, jon hassell",8.5,0,12,2014,473,5
+"63",19522,"impulse!","jazz","offering: live at temple university","john coltrane",8.5,1,10,2014,473,3
+"64",19522,"resonance","jazz","offering: live at temple university","john coltrane",8.5,1,10,2014,473,2
+"65",19736,"strut","jazz","in the orbit of ra","sun ra and his arkestra",8.8,1,10,2014,473,32
+"66",19713,"thirsty ear","jazz","i've been to many places","matthew shipp",7.8,0,9,2014,473,52
+"67",19422,"asthmatic kitty","jazz","making the saint","chris schlarb",6.3,0,6,2014,473,74
+"68",19079,"columbia","jazz","miles at the fillmore - miles davis 1970: the bootleg series vol. 3","miles davis",8.8,1,3,2014,473,242
+"69",19079,"legacy","jazz","miles at the fillmore - miles davis 1970: the bootleg series vol. 3","miles davis",8.8,1,3,2014,473,57
+"70",19160,"sony masterworks","jazz","the rite of spring","the bad plus",6.7,0,3,2014,473,2
+"71",18859,"season of mist","jazz","kindly bent to free us","cynic",4,0,3,2014,473,23
+"72",18870,"ipecac","jazz","piano nights","bohren & der club of gore",7.3,0,2,2014,473,96
+"73",18735,"thing","jazz","boot!","the thing",7.7,0,12,2013,473,1
+"74",18728,"software","jazz","wake up awesome","okkyung lee, c. spencer yeh, lasse marhaug",7.2,0,11,2013,473,25
+"75",18706,"constellation","jazz","coin coin chapter two: mississippi moonchile","matana roberts",8.1,0,11,2013,473,56
+"76",18459,"relapse","jazz","vermis","ulcerate",7.7,0,9,2013,473,119
+"77",18490,"anticon","jazz","drown out","daedelus",5.7,0,9,2013,473,93
+"78",18240,"editions mego","jazz","ghil","okkyung lee",7.5,0,7,2013,473,51
+"79",18114,"palilalia","jazz","the raw and the cooked","chris corsano, bill orcutt",7.7,0,6,2013,473,5
+"80",18099,"prosthetic","jazz","one one one","shining",7.5,0,6,2013,473,16
+"81",17988,"northern spy","jazz","grain","zs",7.3,0,5,2013,473,30
+"82",17962,"now again","jazz","13 degrees of reality","the heliocentrics",7.9,0,4,2013,473,10
+"83",17907,"ninja tune","jazz","the north borders","bonobo",6,0,4,2013,473,132
+"84",17676,"columbia","jazz","the bootleg series, volume 2: live in europe 1969","miles davis",9,1,1,2013,473,242
+"85",17676,"legacy","jazz","the bootleg series, volume 2: live in europe 1969","miles davis",9,1,1,2013,473,57
+"86",17490,"rune grammofon","jazz","stones","mats gustafsson, colin stetson",4.4,0,1,2013,473,44
+"87",17430,"mosaic","jazz","the jazz workshop concerts 196465","charles mingus",8.4,0,12,2012,473,1
+"88",17337,"profound lore","jazz","beyul","yakuza",7,0,10,2012,473,74
+"89",17104,"northern spy","jazz","score: the complete sextet works 2002-2007","zs",7.8,0,9,2012,473,30
+"90",16942,"smalltown supersound","jazz","mungodelics","mungolian jet set",7.1,0,8,2012,473,60
+"91",16752,"roadrunner","jazz","l'enfant sauvage","gojira",8.1,0,6,2012,473,20
+"92",16756,"smalltown supersound","jazz","the cherry thing","the thing, neneh cherry",8,0,6,2012,473,60
+"93",16721,"xl","jazz","the bravest man in the universe","bobby womack",6.2,0,6,2012,473,134
+"94",16582,"circus company","jazz","heirlooms","dave aju",8,0,5,2012,473,3
+"95",16423,"bluroc","jazz","blu tops ep","cam'ron, vado, mckenzie eddy",4.2,0,3,2012,473,7
+"96",16321,"ipecac","jazz","the narrow garden","eyvind kang",7.5,0,2,2012,473,96
+"97",16273,"kompakt","jazz","hotel amour","terranova",6,0,2,2012,473,83
+"98",16193,"rune grammofon","jazz","unemployed","alog",7.9,0,1,2012,473,44
+"99",16150,"ghostly","jazz","glimmer","jacaszek",7.7,0,1,2012,473,84
+"100",16063,"smalltown supersound","jazz","live at the south bank","kieran hebden, mats gustafsson, steve reid",8,0,11,2011,473,60
+"101",16034,"season of mist","jazz","carbon-based anatomy ep","cynic",7.6,0,11,2011,473,23
+"102",16005,"warp","jazz","panic of looking","brian eno, rick holland",5.9,0,11,2011,473,239
+"103",15968,"smalltown supersound","jazz","schlungs","mungolian jet set",6.7,0,10,2011,473,60
+"104",15887,"columbia","jazz","the bootleg series, volume 1: live in europe 1967","miles davis",9,1,10,2011,473,242
+"105",15887,"legacy","jazz","the bootleg series, volume 1: live in europe 1967","miles davis",9,1,10,2011,473,57
+"106",15769,"surfdog","jazz","ghost on the canvas","glen campbell",6.5,0,8,2011,473,1
+"107",15598,"warp","jazz","drums between the bells","brian eno, rick holland",6.6,0,7,2011,473,239
+"108",15532,"frenchkiss","jazz","new heaven","1,2,3",6.3,0,6,2011,473,64
+"109",15519,"ninja tune","jazz","isam","amon tobin",5.9,0,6,2011,473,132
+"110",15454,"chemikal underground","jazz","everything's getting older","aidan moffat, bill wells",6.4,0,5,2011,473,21
+"111",15331,"ninja tune","jazz","bespoke","daedelus",6.8,0,4,2011,473,132
+"112",15275,"surrender all","jazz","only the lonely ep","unkle",6,0,4,2011,473,8
+"113",15249,"natural selection","jazz","capsized","capillary action",7.1,0,3,2011,473,2
+"114",15235,"kranky","jazz","common era","belong",5.9,0,3,2011,473,170
+"115",15140,"xl","jazz","we're new here","gil scott-heron, jamie xx",7.8,0,2,2011,473,134
+"116",15140,"young turks","jazz","we're new here","gil scott-heron, jamie xx",7.8,0,2,2011,473,31
+"117",15027,"social registry","jazz","new slaves part ii: essence implosion!","zs",6.8,0,1,2011,473,48
+"118",14762,"aum fidelity","jazz","i plan to stay a believer: the inside songs of curtis mayfield","william parker",8.2,0,10,2010,473,7
+"119",14716,"a stable sound","jazz","sound of the police","cut chemist",7.8,0,10,2010,473,3
+"120",14716,"soul kitchen","jazz","sound of the police","cut chemist",7.8,0,10,2010,473,3
+"121",14702,"act music + vision","jazz","solo","vijay iyer",7.7,0,10,2010,473,3
+"122",14623,"sony","jazz","bitches brew [legacy edition]","miles davis",9.5,1,9,2010,473,72
+"123",14473,"clean feed","jazz","dual identity","dual identity",7.9,0,7,2010,473,1
+"124",14394,"anti-","jazz","interpretations: the british rock songbook","bettye lavette",7.3,0,7,2010,473,115
+"125",14448,"profound lore","jazz","of seismic consequence","yakuza",7.7,0,7,2010,473,74
+"126",14441,"fat cat","jazz","i mean to live here still","david karsten daniels, fight the big bull",7.5,0,7,2010,473,109
+"127",14443,"waaga","jazz","spirituals","spirituals",7.6,0,7,2010,473,3
+"128",14215,"the end","jazz","blackjazz","shining",7.7,0,5,2010,473,24
+"129",14215,"indie","jazz","blackjazz","shining",7.7,0,5,2010,473,5
+"130",14230,"social registry","jazz","new slaves","zs",7,0,5,2010,473,48
+"131",14223,"surrender all","jazz","where did the night fall","unkle",5.9,0,5,2010,473,8
+"132",14127,"brainfeeder","jazz","righteous fists of harmony","daedelus",5.3,0,4,2010,473,28
+"133",14139,"cryptogramophone","jazz","initiate","the nels cline singers",7.2,0,4,2010,473,10
+"134",14121,"stones throw","jazz","slave riot","young jazz rebels",6.7,0,4,2010,473,109
+"135",14023,"strut","jazz","mulatu steps ahead","mulatu astatke",8.3,0,3,2010,473,32
+"136",13986,"staubgold","jazz","wildling","kammerflimmer kollektief",7,0,3,2010,473,28
+"137",13920,"sony","jazz","soldier of love","sade",7,0,2,2010,473,72
+"138",13893,"xl","jazz","i'm new here","gil scott-heron",8.5,1,2,2010,473,134
+"139",13822,"ninja tune","jazz","one-armed bandit","jaga jazzist",6.9,0,1,2010,473,132
+"140",13678,"strut","jazz","new york-addis-london: the story of ethio jazz 1965-1975","mulatu astatke",9,1,12,2009,473,32
+"141",13733,"rhino","jazz","new york","frank sinatra",6.1,0,11,2009,473,107
+"142",13392,"","jazz","l'autopsie phnomnale de dieu","kreng",7.6,0,8,2009,473,NA
+"143",13379,"ecm","jazz","cartography","arve henriksen",8.1,0,8,2009,473,16
+"144",13301,"smalltown supersound","jazz","we gave it all away, now we are taking it back","mungolian jet set",8.1,0,8,2009,473,60
+"145",13267,"radium","jazz","physical changes","jon mueller",8,0,8,2009,473,3
+"146",13359,"relapse","jazz","psychic maps","dysrhythmia",7,0,8,2009,473,119
+"147",13247,"ecm","jazz","last night the moon came dropping its clothes in the street","jon hassell",8.5,0,8,2009,473,16
+"148",13283,"social registry","jazz","troubled, shaken etc.","sian alice group",6.1,0,7,2009,473,48
+"149",13240,"crammed discs","jazz","saskamodie","mocky",8,0,7,2009,473,17
+"150",13128,"social registry","jazz","music of the modern white","zs",6.5,0,6,2009,473,48
+"151",12912,"constellation","jazz","against the day","land of kush",6.1,0,6,2009,473,56
+"152",13163,"legacy","jazz","mingus ah um: legacy edition","charles mingus",7.8,0,6,2009,473,57
+"153",13088,"legacy","jazz","sketches of spain: legacy edition","miles davis",8,0,6,2009,473,57
+"154",13089,"arts & crafts","jazz","the happiness project","charles spearin",6.8,0,6,2009,473,70
+"155",12945,"ubiquity","jazz","invisible cities","nomo",8,0,5,2009,473,17
+"156",12791,"tomlab","jazz","money","skeletons",5.9,0,3,2009,473,45
+"157",12776,"cryptogramophone","jazz","coward","nels cline",6.9,0,3,2009,473,10
+"158",12762,"smalltown supersound","jazz","kaleidoscopic","lars horntveth",7.7,0,3,2009,473,60
+"159",12625,"allegro music","jazz","recitement","stephen emmer",6.5,0,2,2009,473,4
+"160",12602,"eighteenth street lounge","jazz","radio retaliation","thievery corporation",2.6,0,1,2009,473,15
+"161",12565,"gold dust media","jazz","fun dmc","people under the stairs",7.6,0,1,2009,473,9
+"162",12516,"legacy","jazz","to be free: the nina simone story","nina simone",9.2,0,12,2008,473,57
+"163",12448,"ipecac","jazz","dolores","bohren & der club of gore",8,0,12,2008,473,96
+"164",12452,"listenable","jazz","the way of all flesh","gojira",6,0,11,2008,473,4
+"165",12440,"domino","jazz","nyc","kieran hebden and steve reid",6.8,0,11,2008,473,284
+"166",12417,"!k7","jazz","theres me and theres you","the matthew herbert big band",4,0,11,2008,473,85
+"167",12283,"columbia legacy","jazz","kind of blue: 50th anniversary edition","miles davis",6.6,0,10,2008,473,10
+"168",12258,"century media","jazz","prehistoricisms","intronaut",7,0,10,2008,473,26
+"169",12259,"surrender all","jazz","end titles...stories for film","unkle",4.3,0,9,2008,473,8
+"170",12225,"aum fidelity","jazz","17 musicians in search of a sound: darfur","bill dixon",7.5,0,9,2008,473,7
+"171",12199,"smalltown superjazz","jazz","the second original silence","original silence",8,0,9,2008,473,5
+"172",12172,"warp","jazz","thought so...","nightmares on wax",4.7,0,9,2008,473,239
+"173",12154,"big dada","jazz","slime & reason","roots manuva",7.1,0,9,2008,473,41
+"174",12138,"basin street","jazz","hummingbird, go!","theresa andersson",7.6,0,9,2008,473,3
+"175",12106,"ecstatic peace","jazz","i saw the ghost of an unknown soul and it said...","okkyung lee",7.3,0,8,2008,473,39
+"176",12018,"ninja tune","jazz","love to make music to","daedelus",4.5,0,7,2008,473,132
+"177",11966,"nomo","jazz","ghost rock","nomo",8.3,0,7,2008,473,3
+"178",11967,"social registry","jazz","the dusk line ep","sian alice group",6.4,0,7,2008,473,48
+"179",11935,"capitol","jazz","the best of bobby womack: the soul years","bobby womack",6.2,0,6,2008,473,150
+"180",11613,"!k7","jazz","same as it never was","the herbaliser",6.5,0,6,2008,473,85
+"181",11541,"pi","jazz","party intellectuals","marc ribot",6.1,0,6,2008,473,10
+"182",11516,"sunnyside","jazz","tragicomic","vijay iyer",7.1,0,5,2008,473,1
+"183",11266,"pangaea","jazz","so embarrassing","capillary action",7.3,0,4,2008,473,4
+"184",11316,"social registry","jazz","59.59","sian alice group",7.7,0,4,2008,473,48
+"185",11252,"pi","jazz","two rivers","amir elsaffar",7.2,0,3,2008,473,10
+"186",11151,"domino","jazz","daxaar","steve reid ensemble",6.7,0,2,2008,473,284
+"187",11176,"st. ives","jazz","colorloss record ep","belong",8.4,0,2,2008,473,10
+"188",11114,"f5","jazz","the company of wolves","hi-fidel and dj crucial",7.5,0,2,2008,473,2
+"189",11092,"prosthetic","jazz","transmutations","yakuza",6.9,0,2,2008,473,16
+"190",11109,"ninja tune","jazz","no ground under","ghislain poirier",7.7,0,2,2008,473,132
+"191",11077,"alpha pup","jazz","live at low end theory","daedelus",7.1,0,1,2008,473,9
+"192",11650,"sterns africa","jazz","the voice of lightness","tabu ley rochereau",8.3,0,1,2008,473,11
+"193",11063,"planaria","jazz","arms","zs",7.8,0,1,2008,473,1
+"194",10997,"memphis industries","jazz","first steps into...","blue states",5.1,0,1,2008,473,35
+"195",10972,"southern","jazz","595","karate",7,0,1,2008,473,32
+"196",10767,"sterns africa","jazz","the syliphone years","bembeya jazz national",7.6,0,12,2007,473,11
+"197",10842,"now again","jazz","out there","the heliocentrics",7.6,0,11,2007,473,10
+"198",10901,"columbia","jazz","the complete on the corner sessions","miles davis",9.2,0,11,2007,473,242
+"199",10901,"legacy","jazz","the complete on the corner sessions","miles davis",9.2,0,11,2007,473,57
+"200",10823,"coughee brothaz entertainment","jazz","waitin' our turn","coughee brothaz",6.1,0,11,2007,473,2
+"201",11912,"asthmatic kitty","jazz","twilight & ghost stories","chris schlarb",7.2,0,11,2007,473,74
+"202",10725,"cryptogramophone","jazz","draw breath","the nels cline singers",7.2,0,10,2007,473,10
+"203",10634,"azul discografica","jazz","ordination of the globetrotting conscripts","talibam!",7.3,0,10,2007,473,1
+"204",10777,"columbia","jazz","lady day: the master takes and singles","billie holiday",9,0,10,2007,473,242
+"205",10617,"sterns africa","jazz","the classic guinean guitar group","african virtuoses",7.4,0,10,2007,473,11
+"206",10664,"skipstone records","jazz","block ice & propane","erik friedlander",7.7,0,10,2007,473,2
+"207",10719,"anti-","jazz","the scene of the crime","bettye lavette",7.7,0,10,2007,473,115
+"208",10673,"enja","jazz","zamazu","roberto fonseca",7.7,0,10,2007,473,2
+"209",10673,"justin time","jazz","zamazu","roberto fonseca",7.7,0,10,2007,473,2
+"210",10463,"surrender all","jazz","war stories","unkle",4.5,0,7,2007,473,8
+"211",10434,"morr","jazz","aelita","tied & tickled trio",5.2,0,7,2007,473,56
+"212",10381,"rune grammofon","jazz","amateur","alog",5.9,0,7,2007,473,44
+"213",10335,"nonesuch","jazz","mi sueo","ibrahim ferrer",7.6,0,6,2007,473,83
+"214",10335,"world circuit","jazz","mi sueo","ibrahim ferrer",7.6,0,6,2007,473,15
+"215",10328,"rune grammofon","jazz","commuter anthems","opsvik & jennings",6.5,0,6,2007,473,44
+"216",10283,"hyena","jazz","bad blood in the city: the piety street sessions","james blood ulmer",7.6,0,6,2007,473,3
+"217",10212,"rune grammofon","jazz","strjon","arve henriksen",7.8,0,5,2007,473,44
+"218",10192,"ecm","jazz","prezens","david torn",7.2,0,5,2007,473,16
+"219",10145,"smalltown superjazz","jazz","the first original silence","original silence",8,0,5,2007,473,5
+"220",9952,"brushfire","jazz","brand new by tomorrow","money mark",6.2,0,3,2007,473,11
+"221",9945,"ninja tune","jazz","the foley room","amon tobin",8.1,0,3,2007,473,132
+"222",9901,"butter problems","jazz","play pause stop","benevento/russo duo",7.6,0,2,2007,473,2
+"223",9917,"rune grammofon","jazz","grindstone","shining",7.6,0,2,2007,473,44
+"224",9827,"rhino","jazz","vegas: live","frank sinatra",8.7,0,1,2007,473,107
+"225",9749,"legacy","jazz","remixed and reimagined","nina simone",3.5,0,1,2007,473,57
+"226",9749,"rca","jazz","remixed and reimagined","nina simone",3.5,0,1,2007,473,107
+"227",9730,"semishugure","jazz","adventura anatomica","maja ratkje",7.8,0,1,2007,473,3
+"228",9688,"fantasy","jazz","a charlie brown christmas","vince guaraldi",8.3,0,12,2006,473,6
+"229",9390,"velour","jazz","...until we felt red","kaki king",4.7,0,10,2006,473,3
+"230",9385,"ubiquity","jazz","berlin serengeti","radio citizen",8.2,0,9,2006,473,17
+"231",9421,"!k7","jazz","slappers","dani siciliano",6,0,9,2006,473,85
+"232",9342,"plug research","jazz","living room","the life force trio",7.8,0,9,2006,473,38
+"233",9317,"boompa","jazz","garden cities of to-morrow","lullaby baxter",7,0,8,2006,473,3
+"234",9246,"ubiquity","jazz","an announcement to answer","quantic",7.6,0,8,2006,473,17
+"235",9190,"morr","jazz","a.r.c.","tied & tickled trio",7.6,0,7,2006,473,56
+"236",9064,"ubiquity","jazz","new tones","nomo",8.4,0,5,2006,473,17
+"237",8811,"decon","jazz","tales of the forgotten melodies","wax tailor",5.9,0,4,2006,473,25
+"238",8811,"lab oratoire","jazz","tales of the forgotten melodies","wax tailor",5.9,0,4,2006,473,2
+"239",5684,"celluloid","jazz","killing time","massacre",8.2,0,4,2006,473,2
+"240",5795,"warp","jazz","in a space outta sound","nightmares on wax",6.8,0,3,2006,473,239
+"241",1537,"ninja tune","jazz","sound mirrors","coldcut",6.5,0,3,2006,473,132
+"242",462,"melektronikk","jazz","catch that totem! (1998-2005)","alog",8,0,2,2006,473,3
+"243",1196,"carpark","jazz","october language","belong",8,0,2,2006,473,67
+"244",6931,"soul jazz","jazz","spirit walk","steve reid ensemble",7.8,0,2,2006,473,42
+"245",4032,"alien8","jazz","oasis of whispers","glen hall, lee ranaldo, william hooker",6.7,0,1,2006,473,55
+"246",7121,"thirsty ear","jazz","one","matthew shipp",7.3,0,1,2006,473,52
+"247",11809,"chocolate ind.","jazz","breakupdown","ghislain poirier",7.9,0,1,2006,473,13
+"248",6121,"leo","jazz","levitation","mark oleary, tomasz stako, billy hart",7.7,0,1,2006,473,1
+"249",2201,"columbia","jazz","the cellar door sessions 1970","miles davis",9.4,0,1,2006,473,242
+"250",1824,"pangaea","jazz","fragments","capillary action",7.5,0,12,2005,473,4
+"251",5427,"echo","jazz","the antidote","morcheeba",2.7,0,11,2005,473,9
+"252",532,"tzadik","jazz","carpal tunnel","derek bailey",7,0,11,2005,473,42
+"253",2388,"thirsty ear","jazz","drums of death","dj spooky",6,0,9,2005,473,52
+"254",392,"blue note","jazz","the edge: david axelrod at capitol 1966-1970","david axelrod",8.7,0,9,2005,473,30
+"255",531,"shaking ray","jazz","the gospel record","derek bailey",8,0,8,2005,473,3
+"256",1170,"wonder","jazz","geisterfaust","bohren & der club of gore",7.6,0,7,2005,473,2
+"257",4014,"hip-o select","jazz","the ultimate collection","billie holiday",9.6,0,6,2005,473,22
+"258",5915,"ypsilanti","jazz","nomo","nomo",7.8,0,6,2005,473,3
+"259",6252,"ether","jazz","gilles peterson in africa","gilles peterson",7,0,5,2005,473,2
+"260",6174,"thirsty ear","jazz","luc's lantern","william parker",7,0,5,2005,473,52
+"261",8932,"tzadik","jazz","rituals","john zorn",7.5,0,4,2005,473,42
+"262",4382,"staubgold","jazz","absencen","kammerflimmer kollektief",7.6,0,4,2005,473,28
+"263",6567,"rune grammofon","jazz","oak or rock","phonophani",7.5,0,4,2005,473,44
+"264",4196,"ninja tune","jazz","what we must","jaga jazzist",7.7,0,3,2005,473,132
+"265",4196,"smalltown supersound","jazz","what we must","jaga jazzist",7.7,0,3,2005,473,60
+"266",6944,"big dada","jazz","awfully deep","roots manuva",6.4,0,3,2005,473,41
+"267",11649,"esp-disk","jazz","spiritual unity","albert ayler",9.3,0,3,2005,473,2
+"268",1381,"relapse","jazz","anomalies","cephalic carnage",7,0,3,2005,473,119
+"269",7805,"rune grammofon","jazz","in the kingdom of kitsch you will be a monster","shining",8.3,1,3,2005,473,44
+"270",2132,"mush","jazz","exquisite corpse","daedelus",7.1,0,3,2005,473,39
+"271",7804,"rune grammofon","jazz","luggumt","scorch trio",6.8,0,3,2005,473,44
+"272",4388,"konkurrent","jazz","in the fishtank 12 ep","karate",6.8,0,3,2005,473,11
+"273",461,"rune grammofon","jazz","miniatures","alog",8.4,0,3,2005,473,44
+"274",8006,"eighteenth street lounge","jazz","the cosmic game","thievery corporation",7.6,0,2,2005,473,15
+"275",4728,"xl","jazz","'65-'95","lemon jelly",6.5,0,2,2005,473,134
+"276",8089,"ninja tune","jazz","tom clancy's splinter cell: chaos theory ost","amon tobin",7.2,0,2,2005,473,132
+"277",6561,"thrill jockey","jazz","the relatives","jeff parker",7.4,0,1,2005,473,320
+"278",1148,"plug research","jazz","peace with every step","build an ark",8.7,0,1,2005,473,38
+"279",6933,"ninja tune","jazz","the floating glass key in the sky","rainstick orchestra",7.3,0,12,2004,473,132
+"280",11836,"rune grammofon","jazz","chiaroscuro","arve henriksen",7.1,0,11,2004,473,44
+"281",3329,"nfi","jazz","the frequency","the frequency",6.9,0,11,2004,473,6
+"282",1511,"cryptogramophone","jazz","the giant pin","the nels cline singers",7,0,11,2004,473,10
+"283",3328,"ipecac","jazz","isms","flat earth society",7.2,0,11,2004,473,96
+"284",7120,"thirsty ear","jazz","harmony and abyss","matthew shipp",7.2,0,10,2004,473,52
+"285",8252,"leaf","jazz","moment returns","triosk",7.8,0,10,2004,473,46
+"286",455,"plug research","jazz","one in an infinity of ways","ammoncontact",6.9,0,10,2004,473,38
+"287",3653,"smalltown supersound","jazz","hidros 3 (to patti smith)","mats gustafsson",6.9,0,10,2004,473,60
+"288",4387,"southern","jazz","pockets","karate",8.2,0,10,2004,473,32
+"289",6930,"mustevic","jazz","rhythmatism","steve reid",9,0,9,2004,473,1
+"290",1781,"quannum","jazz","the litmus test","cut chemist",6.1,0,9,2004,473,10
+"291",6552,"sanctuary","jazz","my mama never taught me how to cook: the aura years 1978-1982","annette peacock",7.9,0,9,2004,473,51
+"292",3991,"ninja tune","jazz","guru man hubcap lady","homelife",8.2,0,9,2004,473,132
+"293",665,"screwgun","jazz","acoustic and electric hard cell live","tim berne",7.8,0,9,2004,473,4
+"294",2366,"red ink","jazz","jaku","dj krush",7.3,0,8,2004,473,13
+"295",5747,"mush","jazz","white rabbits","neotropic",7.7,0,8,2004,473,39
+"296",8088,"ninja tune","jazz","recorded live","amon tobin",7.4,0,8,2004,473,132
+"297",8088,"solid steel","jazz","recorded live","amon tobin",7.4,0,8,2004,473,2
+"298",8882,"stones throw","jazz","a tribute to brother weldon","monk hughes & the outer realm",5.5,0,7,2004,473,109
+"299",5598,"leaf","jazz","utopia","murcof",7.9,0,7,2004,473,46
+"300",8556,"ninja tune","jazz","sorry i make you lush","wagon christ",7.8,0,7,2004,473,132
+"301",8777,"ecm","jazz","selected recordings","eberhard weber",5.6,0,7,2004,473,16
+"302",2564,"accidental","jazz","the unnecessary history of doctor rockit","doctor rockit",7.8,0,6,2004,473,13
+"303",2538,"bluebird","jazz","strange liberation","dave douglas",8.2,0,6,2004,473,2
+"304",1767,"thrill jockey","jazz","slon","chicago underground trio",7.5,0,6,2004,473,320
+"305",1112,"tapioca","jazz","libra","philippe besombes",8.4,0,6,2004,473,1
+"306",2131,"plug research","jazz","of snowdonia","daedelus",7.2,0,5,2004,473,38
+"307",6629,"ubiquity","jazz","mishaps happening","quantic",6.9,0,5,2004,473,17
+"308",6915,"enja","jazz","treats for the nightwalker","josh roseman",7.2,0,5,2004,473,2
+"309",6915,"justin time","jazz","treats for the nightwalker","josh roseman",7.2,0,5,2004,473,2
+"310",2554,"rune grammofon","jazz","morals and dogma","deathprod",8.3,0,4,2004,473,44
+"311",8257,"thirsty ear","jazz","junk magic","craig taborn",8.6,0,4,2004,473,52
+"312",434,"rapster","jazz","virgin ubiquity: unreleased recordings 1976-1981","roy ayers",7.3,0,4,2004,473,12
+"313",434,"!k7","jazz","virgin ubiquity: unreleased recordings 1976-1981","roy ayers",7.3,0,4,2004,473,85
+"314",3980,"soul jazz","jazz","beautiful: boonghee music 2","hu vibrational",6.9,0,4,2004,473,42
+"315",7749,"quarternote","jazz","an evening with the sound providers","sound providers",7,0,4,2004,473,2
+"316",7746,"shinkoyo","jazz","life and the afterbirth","skeletons",7.9,0,4,2004,473,2
+"317",7744,"rune grammofon","jazz","fabula","skyphone",7.3,0,3,2004,473,44
+"318",1075,"columbia","jazz","give","the bad plus",5.6,0,3,2004,473,242
+"319",4642,"too pure","jazz","wherever i am i am what is missing","laika",5.1,0,3,2004,473,40
+"320",5578,"warner bros.","jazz","anything goes","brad mehldau",7.8,0,3,2004,473,197
+"321",8906,"tzadik","jazz","erans","tatsuya yoshida, satoko fujii",8,0,3,2004,473,42
+"322",4152,"pi","jazz","in what language?","vijay iyer, mike ladd",8.3,0,3,2004,473,10
+"323",1545,"atlantic","jazz","ornette!","ornette coleman",8.8,0,3,2004,473,153
+"324",5169,"mego","jazz","sweet and vicious like frankenstein","rob mazurek",5.8,0,2,2004,473,21
+"325",2692,"staubgold","jazz","soundchambers","ekkehard ehlers, joseph suchy, franz hautzinger",7.8,0,2,2004,473,28
+"326",8521,"atlantic","jazz","what the... you mean i can't sing?","melvin van peebles",6.9,0,2,2004,473,153
+"327",8251,"~scape","jazz","1+3+1","triosk meets jan jelinek",7.3,0,2,2004,473,10
+"328",8358,"mo'wax","jazz","never never land","unkle",5,0,1,2004,473,8
+"329",3287,"brassland","jazz","maldoror","erik friedlander",8.3,0,1,2004,473,18
+"330",7732,"!k7","jazz","likes...","dani siciliano",6.9,0,1,2004,473,85
+"331",3283,"tzadik","jazz","dreamspeed/blind light (1992-1994)","anton fier",8.5,0,1,2004,473,42
+"332",2533,"chocolate ind.","jazz","one a.m.","diverse",8,0,12,2003,473,13
+"333",5560,"konkurrent","jazz","in the fishtank","jaga jazzist, motorpsycho",7.5,0,11,2003,473,11
+"334",2130,"mush","jazz","rethinking the weather","daedelus",6.9,0,11,2003,473,39
+"335",4415,"ninja tune","jazz","some of my best friends are djs","kid koala",7.4,0,10,2003,473,132
+"336",664,"thirsty ear","jazz","the sublime and.","tim berne",8.5,0,10,2003,473,52
+"337",2200,"columbia legacy","jazz","the complete jack johnson sessions","miles davis",8.6,0,10,2003,473,10
+"338",1074,"columbia","jazz","these are the vistas","the bad plus",7,0,9,2003,473,242
+"339",4943,"indigo","jazz","the edge of heaven","gary lucas",7.9,0,9,2003,473,1
+"340",4943,"label bleu","jazz","the edge of heaven","gary lucas",7.9,0,9,2003,473,1
+"341",8929,"tzadik","jazz","chimeras","john zorn",8.3,0,9,2003,473,42
+"342",5879,"rune grammofon","jazz","dodeka","arne nordheim",8.3,0,8,2003,473,44
+"343",966,"eremite","jazz","never too late but always too early","peter brtzmann, william parker, hamid drake",8.5,0,8,2003,473,4
+"344",8234,"morr","jazz","observing systems","tied & tickled trio",8.3,0,8,2003,473,56
+"345",3833,"accidental","jazz","goodbye swingtime","the matthew herbert big band",7.6,0,8,2003,473,13
+"346",4944,"water","jazz","it's not up to us","byard lancaster",8,0,8,2003,473,4
+"347",4944,"vortex","jazz","it's not up to us","byard lancaster",8,0,8,2003,473,2
+"348",4194,"ninja tune","jazz","the stix","jaga jazzist",6.6,0,8,2003,473,132
+"349",8923,"tzadik","jazz","the unknown masada","john zorn",7.4,0,7,2003,473,42
+"350",3583,"blue chopsticks","jazz","off-road","david grubbs, mats gustafsson",6.8,0,7,2003,473,4
+"351",2832,"hatology","jazz","arcanum moderne","jim black, ellery eskelin, andrea parkins",8,0,7,2003,473,3
+"352",7974,"truckstop","jazz","when i'm falling","terminal 4",7.2,0,7,2003,473,12
+"353",2503,"relapse","jazz","pretest","dysrhythmia",6.9,0,6,2003,473,119
+"354",967,"atavistic","jazz","more nipples","peter brtzmann",8.9,0,5,2003,473,28
+"355",8848,"ozone","jazz","center:level:roar","youngblood brass band",3.4,0,5,2003,473,3
+"356",8848,"layered","jazz","center:level:roar","youngblood brass band",3.4,0,5,2003,473,2
+"357",6246,"ninja tune","jazz","necessary measures","pest",6.1,0,5,2003,473,132
+"358",4195,"gold standard laboratories","jazz","animal chin","jaga jazzist",7.2,0,4,2003,473,8
+"359",7613,"ninja tune","jazz","great aviaries","super numeri",7.4,0,4,2003,473,132
+"360",3845,"ninja tune","jazz","listen & learn","hexstatic",6.8,0,4,2003,473,132
+"361",2386,"thirsty ear","jazz","dubtometry","dj spooky",6.9,0,4,2003,473,52
+"362",2386,"synchronic","jazz","dubtometry","dj spooky",6.9,0,4,2003,473,5
+"363",7441,"thirsty ear","jazz","amassed","spring heel jack",7.3,0,3,2003,473,52
+"364",5477,"ninja tune","jazz","trouser jazz","mr. scruff",7,0,3,2003,473,132
+"365",3248,"ninja tune","jazz","fast asleep","funki porcini",7.7,0,3,2003,473,132
+"366",3144,"kranky","jazz","style drift","fontanelle",3.3,0,2,2003,473,170
+"367",2387,"synchronic","jazz","catechism","dj spooky, killah priest, ward 29",6,0,2,2003,473,5
+"368",2387,"blue juice","jazz","catechism","dj spooky, killah priest, ward 29",6,0,2,2003,473,3
+"369",1031,"mush","jazz","the weather","busdriver, daedelus, radioinactive",8.5,0,2,2003,473,39
+"370",2364,"red ink","jazz","the message at the depth","dj krush",4.2,0,2,2003,473,13
+"371",7101,"atco","jazz","paradise","sonny & linda sharrock",7.9,0,2,2003,473,3
+"372",4726,"xl","jazz","lost horizons","lemon jelly",6.6,0,2,2003,473,134
+"373",8925,"tzadik","jazz","masada guitars","john zorn",7.7,0,1,2003,473,42
+"374",284,"akarma","jazz","revolution","area",9,0,1,2003,473,2
+"375",1380,"relapse","jazz","lucid interval","cephalic carnage",8.1,0,1,2003,473,119
+"376",7118,"thirsty ear","jazz","equilibrium","matthew shipp",7.9,0,1,2003,473,52
+"377",5068,"thirsty ear","jazz","sustain","mat maneri, joe mcphee",8.4,0,12,2002,473,52
+"378",4835,"atavistic","jazz","a valentine for fred katz","fred lonberg-holm, glenn kotche, jason roebke",7.1,0,12,2002,473,28
+"379",4903,"plug research","jazz","blue ramen","low res",7.8,0,12,2002,473,38
+"380",8363,"family vineyard","jazz","the liturgy of ghosts","unstable ensemble",8,0,11,2002,473,16
+"381",5425,"warner bros.","jazz","charango","morcheeba",3.6,0,11,2002,473,197
+"382",1510,"cryptogramophone","jazz","instrumentals","the nels cline singers",8,0,11,2002,473,10
+"383",990,"evolver","jazz","songs to no one: 1991-1992","jeff buckley, gary lucas",7.8,0,10,2002,473,2
+"384",8085,"ninja tune","jazz","out from out where","amon tobin",8.5,0,10,2002,473,132
+"385",8003,"eighteenth street lounge","jazz","the richest man in babylon","thievery corporation",3.8,0,10,2002,473,15
+"386",7388,"merge","jazz","low pressure","spaceheads",5.3,0,9,2002,473,275
+"387",6226,"om","jazz","o.s.t.","people under the stairs",7.7,0,9,2002,473,3
+"388",2385,"thirsty ear","jazz","optometry","dj spooky",7.5,0,8,2002,473,52
+"389",6173,"thirsty ear","jazz","raining on the moon","william parker",8.4,0,8,2002,473,52
+"390",8927,"tzadik","jazz","iao","john zorn",8.3,0,8,2002,473,42
+"391",8180,"fast horse","jazz","cinemathique","tuatara",3,0,7,2002,473,2
+"392",530,"tzadik","jazz","ballads","derek bailey",8.1,0,6,2002,473,42
+"393",3831,"ninja tune","jazz","something wicked this way comes","the herbaliser",7,0,6,2002,473,132
+"394",786,"winter & winter","jazz","splay","jim black",7.5,0,6,2002,473,1
+"395",3208,"nonesuch","jazz","the willies","bill frisell",7,0,6,2002,473,83
+"396",2996,"kimchee","jazz","blobscape","geoff farina",1,0,6,2002,473,5
+"397",2129,"plug research","jazz","invention","daedelus",8.8,0,6,2002,473,38
+"398",5201,"blue note","jazz","uninvisible","medeski, martin and wood",6.3,0,5,2002,473,30
+"399",853,"ninja tune","jazz","animal magic","bonobo",7.6,0,5,2002,473,132
+"400",10,"troubleman unlimited","jazz","abcs","abcs",8,0,5,2002,473,58
+"401",5168,"walking road","jazz","amorphic winged","rob mazurek",7,0,5,2002,473,1
+"402",3055,"twentythree","jazz","jump leeds","fila brazillia",7.8,0,4,2002,473,3
+"403",5105,"freres","jazz","albert marcoeur","albert marcoeur",8.2,0,4,2002,473,3
+"404",1544,"atlantic","jazz","this is our music","ornette coleman",9.4,0,3,2002,473,153
+"405",2833,"hatology","jazz","12 (+1) imaginary views","ellery eskelin",8.9,0,3,2002,473,3
+"406",5180,"atlantic","jazz","headless heroes of the apocalypse","eugene mcdaniels",8.7,0,3,2002,473,153
+"407",663,"screwgun","jazz","open, coma","tim berne, herb robertson, copenhagen art ensemble, marc ducret",8.9,0,2,2002,473,4
+"408",3744,"hydrogen dukebox","jazz","straight from the fridge","james hardway",7.9,0,2,2002,473,3
+"409",11643,"actuel","jazz","a jackson in your house","art ensemble of chicago",7.5,0,2,2002,473,2
+"410",2177,"p-vine","jazz","report from iron mountain","date course pentagon royal garden",6,0,2,2002,473,6
+"411",7116,"thirsty ear","jazz","nu bop","matthew shipp",7.7,0,2,2002,473,52
+"412",7310,"klein","jazz","encounters","sofa surfers",6.7,0,2,2002,473,5
+"413",2372,"one29","jazz","product placement","cut chemist, dj shadow",6,0,2,2002,473,3
+"414",8367,"ninja tune","jazz","master sessions, vol. 2","up, bustle and out",7.2,0,1,2002,473,132
+"415",391,"mo'wax","jazz","david axelrod","david axelrod",7.9,0,1,2002,473,8
+"416",11740,"ninja tune","jazz","outer space/inner space","flanger",8.1,0,1,2002,473,132
+"417",5395,"emperor norton","jazz","change is coming","money mark",6.5,0,12,2001,473,38
+"418",6172,"fuel 2000","jazz","doing their own thing","maceo parker",8,0,12,2001,473,4
+"419",5098,"ninja tune","jazz","run come save me","roots manuva",4.1,0,12,2001,473,132
+"420",5098,"big dada","jazz","run come save me","roots manuva",4.1,0,12,2001,473,41
+"421",2358,"ninja tune","jazz","solid steel presents: now, listen!","dj food",8.4,0,12,2001,473,132
+"422",8578,"grob","jazz","tribute to masayuki takayanagi","fred lonberg-holm, jim orourke, weasel walter",7.9,0,11,2001,473,3
+"423",2199,"columbia","jazz","the complete in a silent way sessions","miles davis",9.5,0,11,2001,473,242
+"424",4380,"payola","jazz","incommunicado","kammerflimmer kollektief",7.1,0,11,2001,473,2
+"425",4380,"temporary residence","jazz","incommunicado","kammerflimmer kollektief",7.1,0,11,2001,473,121
+"426",1550,"impulse!","jazz","the olatunji concert: the last live recording","john coltrane",10,0,10,2001,473,3
+"427",2197,"columbia","jazz","live at the fillmore east (march 7, 1970): it's about that time","miles davis",9.5,0,10,2001,473,242
+"428",8583,"aum fidelity","jazz","corridors and parallels","david s. ware quartet",6.2,0,10,2001,473,7
+"429",7482,"atavistic","jazz","nut music: as free as the squirrels","starship beer",6.5,0,10,2001,473,28
+"430",7482,"unheard music series","jazz","nut music: as free as the squirrels","starship beer",6.5,0,10,2001,473,1
+"431",4381,"bubble core","jazz","hysteria","kammerflimmer kollektief",5,0,10,2001,473,15
+"432",4381,"after hours","jazz","hysteria","kammerflimmer kollektief",5,0,10,2001,473,4
+"433",8926,"tzadik","jazz","madness, love and mysticism","john zorn",7.6,0,9,2001,473,42
+"434",1533,"ninja tune","jazz","re:volution ep","coldcut",3.7,0,9,2001,473,132
+"435",570,"thrill jockey","jazz","duets 2001","robert barry, fred anderson",7.6,0,6,2001,473,320
+"436",8924,"tzadik","jazz","songs from the hermetic theatre","john zorn",8.6,0,6,2001,473,42
+"437",7438,"thirsty ear","jazz","masses","spring heel jack",8.6,0,6,2001,473,52
+"438",4727,"xl","jazz","lemonjelly.ky","lemon jelly",4.2,0,3,2001,473,134
+"439",4727,"beggars","jazz","lemonjelly.ky","lemon jelly",4.2,0,3,2001,473,27
+"440",8555,"ninja tune","jazz","musipal","wagon christ",8,0,3,2001,473,132
+"441",7117,"thirsty ear","jazz","new orbit","matthew shipp",8.8,0,1,2001,473,52
+"442",4225,"compost","jazz","remixes: 1997-2000","jazzanova",5.2,0,11,2000,473,3
+"443",4385,"southern","jazz","unsolved","karate",7.9,0,10,2000,473,32
+"444",5793,"!k7","jazz","dj kicks","nightmares on wax",5.5,0,10,2000,473,85
+"445",5424,"sire","jazz","fragments of freedom","morcheeba",5.1,0,9,2000,473,46
+"446",8004,"4ad","jazz","the mirror conspiracy","thievery corporation",7.2,0,8,2000,473,139
+"447",8004,"eighteenth street lounge","jazz","the mirror conspiracy","thievery corporation",7.2,0,8,2000,473,15
+"448",7439,"thirsty ear","jazz","disappeared","spring heel jack",7.7,0,8,2000,473,52
+"449",7972,"warp","jazz","out of nowhere","jimi tenor",5.3,0,7,2000,473,239
+"450",8087,"ninja tune","jazz","4 ton mantis ep","amon tobin",8,0,7,2000,473,132
+"451",8582,"columbia","jazz","surrendered","david s. ware quartet",5.8,0,5,2000,473,242
+"452",7959,"elektra","jazz","last century modern","towa tei",7.4,0,5,2000,473,59
+"453",8082,"ninja tune","jazz","supermodified","amon tobin",9.1,0,5,2000,473,132
+"454",7437,"thirsty ear","jazz","oddities","spring heel jack",7.7,0,5,2000,473,52
+"455",965,"atavistic","jazz","nipples","the peter brtzmann sextet / quartet",8.4,0,5,2000,473,28
+"456",2384,"beggars banquet","jazz","the quick and the dead","dj spooky, scanner",7.6,0,4,2000,473,45
+"457",2384,"sulfur","jazz","the quick and the dead","dj spooky, scanner",7.6,0,4,2000,473,3
+"458",7115,"thirsty ear","jazz","pastoral composure","matthew shipp",8.6,0,4,2000,473,52
+"459",4641,"beggars banquet","jazz","good looking blues","laika",7.5,0,4,2000,473,45
+"460",4641,"too pure","jazz","good looking blues","laika",7.5,0,4,2000,473,40
+"461",7436,"thirsty ear","jazz","treader","spring heel jack",5.4,0,3,2000,473,52
+"462",1509,"atavistic","jazz","interstellar space revisited: the music of john coltrane","gregg bendian, nels cline",7.9,0,6,1999,473,28
+"463",7119,"thirsty ear","jazz","dna","matthew shipp",8,0,5,1999,473,52
+"464",3830,"ninja tune","jazz","very mercenary","the herbaliser",4.2,0,4,1999,473,132
+"465",7973,"warp","jazz","organism","jimi tenor",8.6,0,4,1999,473,239
+"466",7973,"sire","jazz","organism","jimi tenor",8.6,0,4,1999,473,46
+"467",2985,"emperor norton","jazz","luxury","fantastic plastic machine",7.1,0,4,1999,473,38
+"468",8005,"eighteenth street lounge","jazz","abductions and reconstructions","thievery corporation",7.6,0,4,1999,473,15
+"469",5794,"matador","jazz","carboot soul","nightmares on wax",5.4,0,4,1999,473,231
+"470",5794,"warp","jazz","carboot soul","nightmares on wax",5.4,0,4,1999,473,239
+"471",5099,"ninja tune","jazz","brand new secondhand","roots manuva",9.5,0,3,1999,473,132
+"472",5099,"big dada","jazz","brand new secondhand","roots manuva",9.5,0,3,1999,473,41
+"473",1535,"ninja tune","jazz","let us replay!","coldcut",8.9,0,1,1999,473,132

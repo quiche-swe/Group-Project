@@ -1,0 +1,736 @@
+"","reviewid","label","genre","title","artist","score","best_new_music","pub_month","pub_year","genre_occurrences","label_count"
+"1",22705,"mercury","folk/country","a very kacey christmas","kacey musgraves",6.8,0,12,2016,735,25
+"2",22680,"vanner","folk/country","the weight of these wings","miranda lambert",7.8,0,12,2016,735,1
+"3",22680,"sony","folk/country","the weight of these wings","miranda lambert",7.8,0,12,2016,735,72
+"4",22395,"three lobed","folk/country","daniel bachman","daniel bachman",7.3,0,11,2016,735,27
+"5",22401,"dust-to-digital","folk/country","washington phillips and his manzarene dreams","washington phillips",8.5,1,11,2016,735,12
+"6",22525,"round","folk/country","folk time","hart valley drifters",7.8,0,11,2016,735,1
+"7",22525,"ato","folk/country","folk time","hart valley drifters",7.8,0,11,2016,735,55
+"8",22505,"don giovanni","folk/country","holiday for strings","peter stampfel",7.9,0,11,2016,735,24
+"9",22587,"domino","folk/country","lodestar","shirley collins",8,0,11,2016,735,284
+"10",22509,"driftless","folk/country","fires on the plain","matt kivel",7,0,10,2016,735,7
+"11",22440,"paradise of bachelors","folk/country","lubbock (on everything)","terry allen",8.5,0,10,2016,735,17
+"12",22323,"merge","folk/country","heart like a levee","hiss golden messenger",8.2,0,10,2016,735,275
+"13",22449,"woodsist","folk/country","root/void","mv & ee",7.3,0,10,2016,735,41
+"14",22362,"vhf","folk/country","red horse, white mule","jack rose",7.7,1,10,2016,735,19
+"15",22423,"nonesuch","folk/country","ape in pink marble","devendra banhart",6.6,0,9,2016,735,83
+"16",22386,"paradise of bachelors","folk/country","open to chance","itasca",7.8,0,9,2016,735,17
+"17",22309,"fat possum","folk/country","pearls to swine","adam torres",7.5,0,9,2016,735,89
+"18",22380,"orindal","folk/country","deserts of youth","lisa/liza",8,0,9,2016,735,4
+"19",22330,"caroline","folk/country","we move","james vincent mcmorrow",7.3,0,9,2016,735,16
+"20",22279,"paradise of bachelors","folk/country","whole & cloven","nathan bowles",7.5,0,8,2016,735,17
+"21",22311,"thirty tigers","folk/country","4th of july","carl broemel",6.3,0,8,2016,735,7
+"22",22198,"dead oceans","folk/country","golden sings that have been sung","ryley walker",6.5,0,8,2016,735,79
+"23",22187,"gndwire","folk/country","impossible dream","haley bonar",6.8,0,8,2016,735,1
+"24",22181,"cn records","folk/country","the bird & the rifle","lori mckenna",7.6,0,7,2016,735,1
+"25",22092,"third man","folk/country","live at third man records","scharpling & wurster",7.8,0,7,2016,735,27
+"26",22016,"chaos kitchen","folk/country","into the light","marisa anderson",7.9,0,7,2016,735,1
+"27",21969,"double double whammy","folk/country","going by","told slant",7.4,0,6,2016,735,9
+"28",21971,"tompkins square","folk/country","brigid mae power","brigid mae power",7.5,0,6,2016,735,29
+"29",21873,"matador","folk/country","eyes on the lines","steve gunn",8,0,6,2016,735,231
+"30",21916,"merge","folk/country","modern country","william tyler",8,0,6,2016,735,275
+"31",21956,"new west","folk/country","mosey","daniel romano",7.1,0,5,2016,735,26
+"32",21933,"omnivore","folk/country","the last word on first blues","allen ginsberg",7.9,0,5,2016,735,8
+"33",21914,"paradise of bachelors","folk/country","juarez","terry allen",8,0,5,2016,735,17
+"34",21864,"sacred bones","folk/country","strangers","marissa nadler",7.6,0,5,2016,735,92
+"35",21875,"rado","folk/country","in glendale","tim heidecker",6.5,0,5,2016,735,2
+"36",21725,"mom & pop","folk/country","skip a sinking stone","mutual benefit",7,0,5,2016,735,39
+"37",21878,"lambent light","folk/country","the things that we are made of","mary chapin carpenter",6.8,0,5,2016,735,1
+"38",21861,"merge","folk/country","cult following","little scream",7.5,0,5,2016,735,275
+"39",21758,"atlantic","folk/country","a sailor's guide to earth","sturgill simpson",8,0,4,2016,735,153
+"40",21636,"drag city","folk/country","crab day","cate le bon",8.1,0,4,2016,735,301
+"41",21777,"thrill jockey","folk/country","fleeting","glenn jones",7.2,0,4,2016,735,320
+"42",21660,"barsuk","folk/country","empire builder","laura gibson",7.7,0,3,2016,735,84
+"43",21660,"city slang","folk/country","empire builder","laura gibson",7.7,0,3,2016,735,42
+"44",21745,"third man","folk/country","midwest farmer's daughter","margo price",7,0,3,2016,735,27
+"45",21591,"drag city","folk/country","epic jammers and fortunate little ditties","bonnie prince billy, bitchin bajas",7.9,0,3,2016,735,301
+"46",21561,"legacy","folk/country","full circle","loretta lynn",8,0,3,2016,735,57
+"47",21622,"sub pop","folk/country","heron oblivion","heron oblivion",7.7,0,3,2016,735,337
+"48",21339,"rough trade","folk/country","jesu/sun kil moon","jesu, sun kil moon",7.5,0,2,2016,735,145
+"49",21339,"caldo verde","folk/country","jesu/sun kil moon","jesu, sun kil moon",7.5,0,2,2016,735,32
+"50",21543,"spiritual pajamas","folk/country","skifflin'","the skiffle players",6.8,0,2,2016,735,1
+"51",21577,"driftless","folk/country","janus","matt kivel",7.2,0,2,2016,735,7
+"52",21515,"on-u sound","folk/country","long time traveller","jeb loy nichols",6.4,0,2,2016,735,7
+"53",21461,"light in the attic","folk/country","the very special world of lee hazlewood","lee hazlewood",8.4,0,1,2016,735,61
+"54",21473,"drag city","folk/country","pond scum","bonnie prince billy",7,0,1,2016,735,301
+"55",21455,"4ad","folk/country","not to disappear","daughter",6.7,0,1,2016,735,139
+"56",21455,"glassnote","folk/country","not to disappear","daughter",6.7,0,1,2016,735,26
+"57",21389,"single lock","folk/country","cautionary tale","dylan leblanc",5.7,0,1,2016,735,1
+"58",21297,"scissor tail","folk/country","listen to formation, look for the signs","nadia reid",7.2,0,12,2015,735,2
+"59",21250,"nonesuch","folk/country","the wireless ep","punch brothers",6.8,0,11,2015,735,83
+"60",21128,"riverboat","folk/country","the attic tapes","john renbourn",6.5,0,10,2015,735,3
+"61",21097,"drag city","folk/country","divers","joanna newsom",8.5,1,10,2015,735,301
+"62",21046,"don giovanni","folk/country","acne/ears","the roadside graves",6.9,0,9,2015,735,24
+"63",20930,"no quarter","folk/country","over and even","joan shelley",7.8,0,9,2015,735,25
+"64",20920,"bronze rat","folk/country","how the spark loves the tinder","monk parker",7.7,0,8,2015,735,1
+"65",20865,"ba da bing!","folk/country","the complete recordings of jackson c. frank","jackson c. frank",8,0,8,2015,735,34
+"66",20705,"no quarter","folk/country","duskland","zachary cale",7.1,0,8,2015,735,25
+"67",20908,"last gang","folk/country","faded gloryville","lindi ortega",7,0,8,2015,735,24
+"68",20908,"grand tour","folk/country","faded gloryville","lindi ortega",7,0,8,2015,735,1
+"69",20716,"earth","folk/country","live at the 12 bar","bert jansch",7.7,0,7,2015,735,2
+"70",20821,"thirty tigers","folk/country","watkins family hour","watkins family hour",7.4,0,7,2015,735,7
+"71",20821,"family hour","folk/country","watkins family hour","watkins family hour",7.4,0,7,2015,735,1
+"72",20697,"brown","folk/country","sing into my mouth","ben bridwell, iron & wine",5.2,0,7,2015,735,3
+"73",20697,"black cricket","folk/country","sing into my mouth","ben bridwell, iron & wine",5.2,0,7,2015,735,2
+"74",20679,"mercury nashville","folk/country","pageant material","kacey musgraves",8,0,6,2015,735,1
+"75",20682,"fantasy","folk/country","still","richard thompson",7.5,0,6,2015,735,6
+"76",20632,"drag city","folk/country","don't weigh down the light","meg baird",7.1,0,6,2015,735,301
+"77",20632,"wichita","folk/country","don't weigh down the light","meg baird",7.1,0,6,2015,735,47
+"78",20693,"caldo verde","folk/country","universal themes","sun kil moon",6,0,6,2015,735,32
+"79",20565,"new west","folk/country","the deslondes","the deslondes",7.9,0,6,2015,735,26
+"80",20597,"sub pop","folk/country","carnation","daughn gibson",4.3,0,6,2015,735,337
+"81",20433,"three lobed","folk/country","river","daniel bachman",7.7,0,5,2015,735,27
+"82",20305,"family vineyard","folk/country","blues: the ""dark paintings"" of mark rothko","loren connors",8.3,0,5,2015,735,16
+"83",20540,"old omens","folk/country","high on tulsa heat","john moreland",7,0,5,2015,735,1
+"84",20481,"dead oceans","folk/country","dark bird is home","the tallest man on earth",6.7,0,5,2015,735,79
+"85",20560,"light in the attic","folk/country","songs from suicide bridge","david kauffman, eric caboor",7.4,0,5,2015,735,61
+"86",20330,"paradise of bachelors","folk/country","loyalty","the weather station",7.8,0,5,2015,735,17
+"87",20475,"dead oceans","folk/country","who is the sender?","bill fay",7.4,0,4,2015,735,79
+"88",20417,"brassland","folk/country","bashed out","this is the kit",7.2,0,4,2015,735,18
+"89",20203,"numero group","folk/country","the best of the best show","scharpling & wurster",8.8,1,4,2015,735,62
+"90",20218,"asthmatic kitty","folk/country","carrie & lowell","sufjan stevens",9.3,1,3,2015,735,74
+"91",20215,"dead oceans","folk/country","primrose green","ryley walker",6.2,0,3,2015,735,79
+"92",20211,"immune","folk/country","i am all your own","ilyas ahmed",7.7,0,3,2015,735,1
+"93",20311,"burger","folk/country","fast-moving clouds","sarah bethe nelson",7.4,0,3,2015,735,13
+"94",20302,"tin angel","folk/country","perfect abandon","tom brosseau",7,0,3,2015,735,3
+"95",20302,"crossbill","folk/country","perfect abandon","tom brosseau",7,0,3,2015,735,2
+"96",20200,"smithsonian folkways","folk/country","lead belly: the smithsonian folkways collection","lead belly",9,1,3,2015,735,2
+"97",20198,"thrill jockey","folk/country","seasonal hire","black twig pickers, steve gunn",7.4,0,2,2015,735,320
+"98",20199,"black cricket","folk/country","archive series volume no. 1","iron & wine",7.2,0,2,2015,735,2
+"99",20249,"team love","folk/country","great big flamingo burning moon","the wave pictures",5.9,0,2,2015,735,36
+"100",20249,"moshi moshi","folk/country","great big flamingo burning moon","the wave pictures",5.9,0,2,2015,735,34
+"101",20092,"merge","folk/country","southern grammar ep","hiss golden messenger",7.2,0,2,2015,735,275
+"102",20093,"important","folk/country","summoning suns","james blackshaw",7.9,0,2,2015,735,57
+"103",20130,"drag city","folk/country","on your own love again","jessica pratt",8.1,0,1,2015,735,301
+"104",20049,"drag city","folk/country","alasdair roberts","alasdair roberts",7.3,0,1,2015,735,301
+"105",20115,"new images","folk/country","unmoored by the wind","itasca",7.4,0,1,2015,735,1
+"106",19908,"metal blade","folk/country","where greater men have fallen","primordial",7.9,0,12,2014,735,23
+"107",20022,"century media","folk/country","at war with reality","at the gates",6.9,0,12,2014,735,26
+"108",19919,"paradise of bachelors","folk/country","nansemond","nathan bowles",7.2,0,11,2014,735,17
+"109",19867,"sacred bones","folk/country","final days","cult of youth",8.1,0,11,2014,735,92
+"110",19825,"you've changed","folk/country","what am i going to do with everything i know","the weather station",8.1,0,10,2014,735,1
+"111",19821,"paradise of bachelors","folk/country","way out weather","steve gunn",8,0,10,2014,735,17
+"112",19828,"no quarter","folk/country","electric ursa","joan shelley",7.9,0,9,2014,735,25
+"113",19844,"palace","folk/country","singer's grave a sea of tongues","bonnie prince billy",6.9,0,9,2014,735,7
+"114",19844,"drag city","folk/country","singer's grave a sea of tongues","bonnie prince billy",6.9,0,9,2014,735,301
+"115",19681,"merge","folk/country","lateness of dancers","hiss golden messenger",7.6,0,9,2014,735,275
+"116",19776,"other music","folk/country","cowboy's prayer ep","mutual benefit",6.3,0,9,2014,735,8
+"117",19605,"bathetic","folk/country","orange co. serenade","daniel bachman",6.8,0,7,2014,735,3
+"118",19543,"tompkins square","folk/country","fantmas: le faux magistrat","james blackshaw",6.6,0,7,2014,735,29
+"119",19501,"woodsist","folk/country","days of being wild","matt kivel",7.6,0,7,2014,735,41
+"120",19442,"rvng intl.","folk/country","cantos de lisboa","steve gunn, mike cooper",7.2,0,7,2014,735,46
+"121",19536,"dead oceans","folk/country","heal","strand of oaks",7.9,0,6,2014,735,79
+"122",19474,"kobalt","folk/country","falling theater","matteah baim",7.6,0,6,2014,735,8
+"123",19474,"dream drive","folk/country","falling theater","matteah baim",7.6,0,6,2014,735,1
+"124",19386,"high top mountain","folk/country","metamodern sounds in country music","sturgill simpson",7.7,0,5,2014,735,1
+"125",19294,"merge","folk/country","lost colony","william tyler",7.3,0,5,2014,735,275
+"126",19193,"glitterhouse","folk/country","refractory obdurate","wovenhand",8.2,0,5,2014,735,3
+"127",19193,"deathwish","folk/country","refractory obdurate","wovenhand",8.2,0,5,2014,735,15
+"128",19217,"in de goot","folk/country","here be monsters","jon langford",7,0,4,2014,735,2
+"129",19080,"columbia","folk/country","out among the stars","johnny cash",7.4,0,3,2014,735,242
+"130",19080,"legacy","folk/country","out among the stars","johnny cash",7.4,0,3,2014,735,57
+"131",19088,"paradise of bachelors","folk/country","lavender country","lavender country",8.6,1,3,2014,735,17
+"132",19063,"light in the attic","folk/country","second poem to karmela"" or gypsies are important","peter walker",8.3,0,3,2014,735,61
+"133",19066,"asthmatic kitty","folk/country","the soul of all natural things","linda perhacs",6.8,0,3,2014,735,74
+"134",19053,"sub pop","folk/country","island intervals","death vessel",7.5,0,3,2014,735,337
+"135",18996,"bloodshot","folk/country","somewhere else","lydia loveless",7.3,0,2,2014,735,29
+"136",18941,"sacred bones","folk/country","july","marissa nadler",8.1,0,2,2014,735,92
+"137",18860,"caldo verde","folk/country","benji","sun kil moon",9.2,1,2,2014,735,32
+"138",18928,"orindal","folk/country","rooms with walls and windows","julie byrne",7.4,0,1,2014,735,4
+"139",18793,"island","folk/country","tuck box","nick drake",8.5,1,1,2014,735,94
+"140",18895,"vagrant","folk/country","post tropical","james vincent mcmorrow",7.1,0,1,2014,735,69
+"141",18853,"no quarter","folk/country","strong feelings","doug paisley",7.5,0,1,2014,735,25
+"142",18834,"paradise of bachelors","folk/country","bad debt","hiss golden messenger",8.2,0,1,2014,735,17
+"143",18807,"electric ragtime","folk/country","blue rider","zachary cale",7.9,0,12,2013,735,1
+"144",18797,"talitres","folk/country","blood/lines","emily jane white",6.6,0,12,2013,735,2
+"145",18716,"wichita","folk/country","mug museum","cate le bon",7.3,0,11,2013,735,47
+"146",18716,"turnstile","folk/country","mug museum","cate le bon",7.3,0,11,2013,735,11
+"147",18651,"olde english spelling bee","folk/country","double exposure","matt kivel",8,0,10,2013,735,9
+"148",18651,"burger","folk/country","double exposure","matt kivel",8,0,10,2013,735,13
+"149",18682,"svart","folk/country","joko sin tulet tnne alas tai min nousen sinne","paavoharju",7.1,0,10,2013,735,4
+"150",18669,"other music","folk/country","love's crushing diamond","mutual benefit",8.4,1,10,2013,735,8
+"151",18666,"crammed discs","folk/country","wed 21","juana molina",7.3,0,10,2013,735,17
+"152",18650,"self-released","folk/country","bonnie ""prince"" billy","bonnie prince billy",7.8,0,10,2013,735,475
+"153",18451,"anti-","folk/country","the worse things get, the harder i fight...","neko case",8.2,0,9,2013,735,115
+"154",18228,"jagjaguwar","folk/country","fantasy","lightning dust",5.5,0,7,2013,735,177
+"155",18222,"metal blade","folk/country","deceiver of the gods","amon amarth",5.6,0,7,2013,735,23
+"156",18176,"paradise of bachelors","folk/country","time off","steve gunn",7.9,0,7,2013,735,17
+"157",18248,"sub pop","folk/country","me moan","daughn gibson",6.3,0,7,2013,735,337
+"158",18161,"sacred bones","folk/country","this is another life","case studies",5.6,0,6,2013,735,92
+"159",18063,"city slang","folk/country","tales of a grasswidow","cocorosie",6.7,0,5,2013,735,42
+"160",18007,"thrill jockey","folk/country","my garden state","glenn jones",7.7,0,5,2013,735,320
+"161",18073,"domino","folk/country","a bad wind blows in my heart","bill ryder-jones",5.2,0,5,2013,735,284
+"162",17960,"caldo verde","folk/country","perils from the sea","the album leaf, sun kil moon",7.3,0,4,2013,735,32
+"163",17875,"nonesuch","folk/country","ghost on ghost","iron & wine",6.1,0,4,2013,735,83
+"164",17819,"paradise of bachelors","folk/country","haw","hiss golden messenger",8,0,4,2013,735,17
+"165",17780,"merge","folk/country","impossible truth","william tyler",8,0,3,2013,735,275
+"166",17605,"debemur morti","folk/country","the plague of a coming age","october falls",6.2,0,3,2013,735,11
+"167",17800,"nonesuch","folk/country","mala","devendra banhart",7.6,0,3,2013,735,83
+"168",17727,"third man","folk/country","the complete recorded works in chronological order volume 1","the mississippi sheiks",6.5,0,2,2013,735,27
+"169",17797,"drag city","folk/country","what the brothers sang","bonnie prince billy, dawn mccarthy",7,0,2,2013,735,301
+"170",17566,"latitudes","folk/country","burnt up on re-entry","boduf songs",7.4,0,1,2013,735,2
+"171",17545,"polyvinyl","folk/country","in focus?","shugo tokumaru",7.6,0,1,2013,735,135
+"172",17418,"atp","folk/country","out of it and into it ","tall firs",6.4,0,1,2013,735,33
+"173",17415,"birth","folk/country","jessica pratt","jessica pratt",7.5,0,11,2012,735,2
+"174",17320,"asthmatic kitty","folk/country","silver & gold","sufjan stevens",7.8,0,11,2012,735,74
+"175",16987,"sacred bones","folk/country","love will prevail","cult of youth",8,0,9,2012,735,92
+"176",17012,"dead oceans","folk/country","life is people","bill fay",8,0,8,2012,735,79
+"177",16855,"domino/drag city","folk/country","now here's my plan ep","bonnie prince billy",6.8,0,8,2012,735,1
+"178",16812,"smithsonian folkways","folk/country","woody at 100: the woody guthrie centennial collection","woody guthrie",8.5,1,7,2012,735,2
+"179",16711,"dead oceans","folk/country","there's no leaving now","the tallest man on earth",7.1,0,6,2012,735,79
+"180",16674,"caldo verde","folk/country","among the leaves","sun kil moon",6.8,0,6,2012,735,32
+"181",16662,"box of cedar","folk/country","the sister","marissa nadler",7,0,5,2012,735,2
+"182",16613,"text","folk/country","into the trees","one little plane",6.8,0,5,2012,735,6
+"183",16581,"light in the attic","folk/country","the lhi years: nudes, singles & backsides (1968-1971)","lee hazlewood",7.6,0,5,2012,735,61
+"184",16546,"tompkins square","folk/country","poor moon","hiss golden messenger",7.8,0,4,2012,735,29
+"185",16546,"paradise of bachelors","folk/country","poor moon","hiss golden messenger",7.8,0,4,2012,735,17
+"186",16466,"white denim","folk/country","all hell","daughn gibson",8.1,0,4,2012,735,2
+"187",16527,"important","folk/country","love is the plan, the plan is death","james blackshaw",7.9,0,4,2012,735,57
+"188",16461,"wilderland","folk/country","young man in america","anas mitchell",7.8,0,4,2012,735,2
+"189",16461,"thirty tigers","folk/country","young man in america","anas mitchell",7.8,0,4,2012,735,7
+"190",16455,"nonesuch","folk/country","locked down","dr. john",7.5,0,4,2012,735,83
+"191",16450,"leaf","folk/country","both lights","au",6.6,0,4,2012,735,46
+"192",16450,"hometapes","folk/country","both lights","au",6.6,0,4,2012,735,29
+"193",16392,"season of mist","folk/country","eternal turn of the wheel","drudkh",8.2,0,3,2012,735,23
+"194",16312,"delmore","folk/country","1966","karen dalton",8,0,2,2012,735,3
+"195",16226,"barsuk","folk/country","la grande","laura gibson",7.4,0,1,2012,735,84
+"196",16226,"city slang","folk/country","la grande","laura gibson",7.4,0,1,2012,735,42
+"197",16226,"jealous butcher","folk/country","la grande","laura gibson",7.4,0,1,2012,735,4
+"198",16179,"control group","folk/country","cyrk","cate le bon",7.6,0,1,2012,735,10
+"199",16118,"rhino handmade","folk/country","bobby charles","bobby charles",8.6,0,1,2012,735,2
+"200",16090,"thrill jockey","folk/country","big bells and dime songs","luke roberts",7.5,0,12,2011,735,320
+"201",15959,"dust-to-digital","folk/country","your past comes back to haunt you: the fonotone years (19581965)","john fahey",9.5,1,10,2011,735,12
+"202",15959,"revenant","folk/country","your past comes back to haunt you: the fonotone years (19581965)","john fahey",9.5,1,10,2011,735,6
+"203",15940,"constellation","folk/country","impossible spaces","sandro perri",8.3,0,10,2011,735,56
+"204",15886,"drag city","folk/country","wolfroy goes to town","bonnie prince billy",7.8,0,10,2011,735,301
+"205",15838,"world circuit","folk/country","fatou","fatoumata diawara",7.6,0,9,2011,735,15
+"206",15764,"sacred bones","folk/country","the world is just a shape to fill the night","case studies",7.3,0,9,2011,735,92
+"207",15744,"hardly art","folk/country","the ornament","gold leaves",7.7,0,8,2011,735,57
+"208",15729,"fargo","folk/country","marble son","jesse sykes & the sweet hereafter",5.9,0,8,2011,735,2
+"209",15719,"sacred bones","folk/country","cult of youth","cult of youth",7.3,0,8,2011,735,92
+"210",15670,"drag city","folk/country","there is no god","bonnie prince billy",7,0,8,2011,735,301
+"211",15690,"anti-","folk/country","field songs","william elliott whitmore",7.5,0,8,2011,735,115
+"212",15613,"chemikal underground","folk/country","first edition","fruit tree foundation",5.9,0,7,2011,735,21
+"213",15553,"file under: music","folk/country","shirts vs. skins","graham wright",4.9,0,6,2011,735,4
+"214",15529,"thousand tongues","folk/country","twist again","bodies of water",7.4,0,6,2011,735,2
+"215",15544,"box of cedar","folk/country","marissa nadler","marissa nadler",8.1,0,6,2011,735,2
+"216",15533,"three lobed","folk/country","country stash","mv & ee",7.4,0,6,2011,735,27
+"217",15506,"pentar","folk/country","make your own danger","alina simone",7.2,0,6,2011,735,1
+"218",15504,"tompkins square","folk/country","out on the open west","frank fairfield",8,0,6,2011,735,29
+"219",15487,"brainlove","folk/country","outbreeding","david thomas broughton",6.9,0,6,2011,735,1
+"220",15442,"trekky records","folk/country","hungry mother blues","phil cook & his feat",7.5,0,5,2011,735,2
+"221",15485,"rough trade","folk/country","last","the unthanks",7.6,0,5,2011,735,145
+"222",15431,"arts & crafts","folk/country","creep on creepin' on","timber timbre",6.7,0,5,2011,735,70
+"223",15373,"moshi moshi","folk/country","beer in the breakers","the wave pictures",5.1,0,5,2011,735,34
+"224",15338,"secretly canadian","folk/country","the golden record","little scream",8.1,0,4,2011,735,149
+"225",15287,"lightning rod","folk/country","here we rest","jason isbell and the 400 unit",6,0,4,2011,735,2
+"226",15222,"mute","folk/country","last of the country gentlemen","josh t. pearson",4,0,4,2011,735,240
+"227",15267,"oh wow dang","folk/country","screws get loose","those darlins",6.1,0,4,2011,735,1
+"228",15266,"yep roc","folk/country","nightingale","erland & the carnival",5.9,0,3,2011,735,87
+"229",15266,"full time hobby","folk/country","nightingale","erland & the carnival",5.9,0,3,2011,735,11
+"230",15163,"drag city","folk/country","island brothers","bonnie prince billy, the cairo gang",8,0,3,2011,735,301
+"231",15171,"jdub","folk/country","the house of friendly ghosts, vol. 1","the sway machinery",7.5,0,3,2011,735,6
+"232",15077,"royal potato family","folk/country","the color","yellowbirds",7.7,0,3,2011,735,1
+"233",15152,"strange attractors audio house","folk/country","the woody nightshade","sharron kraus",7.4,0,3,2011,735,27
+"234",15133,"next ambience","folk/country","laru beya","aurelio",7.8,0,3,2011,735,3
+"235",15046,"legacy","folk/country","bootleg volume 2: from memphis to hollywood","johnny cash",6.7,0,2,2011,735,57
+"236",15102,"city slang","folk/country","invariable heartache","kort",7.6,0,2,2011,735,42
+"237",15057,"light of morning","folk/country","until the light of morning","essie jain",7.1,0,2,2011,735,1
+"238",15001,"jagjaguwar","folk/country","grown unknown","lia ices",7.2,0,1,2011,735,177
+"239",15033,"4ad","folk/country","kiss each other clean","iron & wine",7.7,0,1,2011,735,139
+"240",15033,"warner bros.","folk/country","kiss each other clean","iron & wine",7.7,0,1,2011,735,197
+"241",15006,"no quarter","folk/country","constant companion","doug paisley",7.5,0,1,2011,735,25
+"242",15021,"sub pop","folk/country","in the cool of the day","daniel martin moore",7.7,0,1,2011,735,337
+"243",14999,"tompkins square","folk/country","behold the spirit","william tyler",8.6,0,1,2011,735,29
+"244",14949,"western vinyl","folk/country","life of love","callers",7.6,0,1,2011,735,52
+"245",14822,"numero group","folk/country","complete mythology","syl johnson",6.8,0,11,2010,735,62
+"246",14820,"thrill jockey","folk/country","ironto special","the black twig pickers",7.2,0,11,2010,735,320
+"247",14795,"rough trade","folk/country","paupers field","dylan leblanc",6.8,0,10,2010,735,145
+"248",14784,"fire","folk/country","anda jaleo","josephine foster & the victor herrero band",6.2,0,10,2010,735,50
+"249",14792,"p-vine","folk/country","port entropy","shugo tokumaru",6.2,0,10,2010,735,6
+"250",14738,"asthmatic kitty","folk/country","the age of adz","sufjan stevens",8.4,1,10,2010,735,74
+"251",14644,"plug research","folk/country","am/fm","exile",5.6,0,9,2010,735,38
+"252",14639,"dead oceans","folk/country","sometimes the blues is just a passing bird ep","the tallest man on earth",7.8,0,9,2010,735,79
+"253",14630,"kranky","folk/country","this alone above all else in spite of everything","boduf songs",7.2,0,9,2010,735,170
+"254",14567,"emusic","folk/country","pope killdragon","strand of oaks",8.1,0,9,2010,735,13
+"255",14618,"asthmatic kitty","folk/country","all delighted people ep","sufjan stevens",7.6,0,9,2010,735,74
+"256",14539,"v2","folk/country","hawk","isobel campbell & mark lanegan",7.5,0,8,2010,735,109
+"257",14539,"vanguard","folk/country","hawk","isobel campbell & mark lanegan",7.5,0,8,2010,735,9
+"258",14534,"young god","folk/country","all is falling","james blackshaw",7.8,0,8,2010,735,37
+"259",14501,"asthmatic kitty","folk/country","shannon stephens","shannon stephens",6,0,8,2010,735,74
+"260",14445,"nettwerk","folk/country","obadiah","frazey ford",7.1,0,8,2010,735,42
+"261",14495,"vanguard","folk/country","hunting my dress","jesca hoop",6.9,0,7,2010,735,9
+"262",14469,"bella union","folk/country","made the harbor","mountain man",7.7,0,7,2010,735,57
+"263",14469,"partisan","folk/country","made the harbor","mountain man",7.7,0,7,2010,735,30
+"264",14394,"anti-","folk/country","interpretations: the british rock songbook","bettye lavette",7.3,0,7,2010,735,115
+"265",14437,"yep roc","folk/country","wildwood","chatham county line",7.2,0,7,2010,735,87
+"266",14430,"caldo verde","folk/country","admiral fell promises","sun kil moon",7,0,7,2010,735,32
+"267",14441,"fat cat","folk/country","i mean to live here still","david karsten daniels, fight the big bull",7.5,0,7,2010,735,109
+"268",14421,"thrill jockey","folk/country","ragged and right","jack rose, d. charles speer and the helix",7.2,0,7,2010,735,320
+"269",14332,"sounds familyre","folk/country","the threshingfloor","wovenhand",7.3,0,6,2010,735,17
+"270",14218,"control group","folk/country","me oh my","cate le bon",7.3,0,6,2010,735,10
+"271",14218,"irony bored","folk/country","me oh my","cate le bon",7.3,0,6,2010,735,1
+"272",14300,"xl","folk/country","the ghost who walks","karen elson",6.3,0,5,2010,735,134
+"273",14300,"third man","folk/country","the ghost who walks","karen elson",6.3,0,5,2010,735,27
+"274",14217,"sub pop","folk/country","grey oceans","cocorosie",5.1,0,5,2010,735,337
+"275",14232,"sugar hill","folk/country","feast of the hunter's moon","black prairie",5.4,0,5,2010,735,4
+"276",14209,"milan","folk/country","victorian america","emily jane white",7.1,0,5,2010,735,16
+"277",14183,"moshi moshi","folk/country","instant coffee baby","the wave pictures",7.8,0,5,2010,735,34
+"278",14191,"twosyllable","folk/country","inter arbiter","inlets",6.1,0,4,2010,735,7
+"279",14110,"dead oceans","folk/country","the wild hunt","the tallest man on earth",8.5,1,4,2010,735,79
+"280",14106,"k","folk/country","the bundles","the bundles",5,0,4,2010,735,98
+"281",14092,"klangbad","folk/country","no rest","christy & emily",6.3,0,4,2010,735,2
+"282",14088,"drag city","folk/country","the wonder show of the world","bonnie prince billy, the cairo gang",7.4,0,4,2010,735,301
+"283",14052,"shrug","folk/country","holy broken","sin ropas",7.4,0,4,2010,735,1
+"284",14084,"glacial pace","folk/country","mimicking birds","mimicking birds",7.4,0,3,2010,735,5
+"285",14032,"sub pop","folk/country","dear companion","ben sollee and daniel martin moore",6.4,0,3,2010,735,337
+"286",13938,"american","folk/country","american recordings vi: ain't no grave","johnny cash",5.7,0,2,2010,735,14
+"287",13950,"thrill jockey","folk/country","luck in the valley","jack rose",8.2,0,2,2010,735,320
+"288",13960,"drag city","folk/country","have one on me","joanna newsom",9.2,1,2,2010,735,301
+"289",13884,"caldo verde","folk/country","thin thin line","kath bloom",8,0,2,2010,735,32
+"290",13883,"world circuit","folk/country","ali and toumani","ali farka tour, toumani diabat",8.3,0,2,2010,735,15
+"291",13905,"vanguard","folk/country","talking to you, talking to me","the watson twins",6.4,0,2,2010,735,9
+"292",13687,"locust","folk/country","shape of the shape","starless & bible black",7.6,0,2,2010,735,38
+"293",13890,"gnomonsong","folk/country","you & me","kevin barker",5.9,0,2,2010,735,14
+"294",13866,"aagoo","folk/country","versions","au",7.6,0,1,2010,735,3
+"295",13769,"skybucket","folk/country","together you and i","barton carroll",7.4,0,1,2010,735,4
+"296",13778,"rounder","folk/country","my dusty road","woody guthrie",7.3,0,1,2010,735,24
+"297",13734,"asthmatic kitty","folk/country","dead zone boys","jookabox",6.4,0,12,2009,735,74
+"298",13639,"fayettenam","folk/country","local currency: solo 1992-1998","franklin bruno",7.5,0,11,2009,735,2
+"299",13645,"warner bros.","folk/country","what will we be","devendra banhart",4,0,10,2009,735,197
+"300",13612,"mint","folk/country","let's just stay here","carolyn mark, nq arbuckle",7,0,10,2009,735,16
+"301",13609,"xl","folk/country","doomsday ep ","elvis perkins in dearland",6.9,0,10,2009,735,134
+"302",13608,"ecstatic peace","folk/country","barn nova","mv & ee",6.3,0,10,2009,735,39
+"303",13593,"asthmatic kitty","folk/country","the bqe","sufjan stevens",7.4,0,10,2009,735,74
+"304",13591,"k","folk/country","zebra","karl blau",7.2,0,10,2009,735,98
+"305",13514,"borne","folk/country","good morning jokers","mi and l'au",6.6,0,10,2009,735,1
+"306",13129,"shout! factory","folk/country","walking on a wire: richard thompson (1968-2009)","richard thompson",7.7,0,8,2009,735,20
+"307",13127,"fat cat","folk/country","posthumous success","tom brosseau",7,0,8,2009,735,109
+"308",13295,"jagjaguwar","folk/country","infinite light","lightning dust",8,0,8,2009,735,177
+"309",13335,"xl","folk/country","blue roses","blue roses",7.8,0,7,2009,735,134
+"310",13148,"","folk/country","winter hill","miss derringer",7.7,0,7,2009,735,NA
+"311",13278,"independiente","folk/country","radio wars","howling bells",6.1,0,7,2009,735,8
+"312",13221,"fat cat","folk/country","sacred psalms","our brother the native",4.7,0,7,2009,735,109
+"313",13318,"sugar hill","folk/country","the stars are out","sarah borges and the broken singles",5.9,0,7,2009,735,4
+"314",13175,"autumn tone","folk/country","my son's home","the roadside graves",7,0,7,2009,735,2
+"315",13178,"sub pop","folk/country","life on earth","tiny vipers",7.8,0,7,2009,735,337
+"316",13110,"drag city","folk/country","spoils","alasdair roberts",8,0,6,2009,735,301
+"317",13197,"drag city","folk/country","larry jon wilson","larry jon wilson",7.6,0,6,2009,735,301
+"318",12972,"young god","folk/country","the glass bead game","james blackshaw",7.2,0,5,2009,735,37
+"319",13041,"sub pop","folk/country","around the well","iron & wine",7.3,0,5,2009,735,337
+"320",12943,"leaf","folk/country","the snake","wildbirds & peacedrums",8.3,0,5,2009,735,46
+"321",12992,"merge","folk/country","outer south","conor oberst and the mystic valley band",4.9,0,5,2009,735,275
+"322",12901,"three lobed","folk/country","the black dirt sessions","jack rose",7.2,0,4,2009,735,27
+"323",12879,"black hen","folk/country","winter hours","the deep dark woods",7.3,0,4,2009,735,1
+"324",12757,"midwich","folk/country","old stories","nancy wallace",6.8,0,4,2009,735,1
+"325",12868,"team love","folk/country","the last laugh","joker's daughter",7.3,0,4,2009,735,36
+"326",12800,"dicristina","folk/country","laughing boy","matteah baim",7.2,0,4,2009,735,9
+"327",12867,"burnt toast vinyl","folk/country","baby","bosque brown",4.6,0,4,2009,735,5
+"328",12859,"drag city","folk/country","beware","bonnie prince billy",7.9,0,3,2009,735,301
+"329",12747,"4ad","folk/country","rockwell","anni rossi",8,0,3,2009,735,139
+"330",12823,"xl","folk/country","elvis perkins in dearland","elvis perkins in dearland",6.7,0,3,2009,735,134
+"331",12742,"collector's choice","folk/country","the tiffany transcriptions","bob wills and his texas playboys",8.9,0,3,2009,735,3
+"332",12816,"hush","folk/country","beasts of seasons","laura gibson",7.2,0,3,2009,735,22
+"333",12737,"dicristina","folk/country","drone trailer","mv & ee",5.8,0,3,2009,735,9
+"334",12813,"kemado","folk/country","little hells","marissa nadler",8.3,0,3,2009,735,38
+"335",12751,"manimal vinyl","folk/country","frontier","rio en medio",7.2,0,3,2009,735,6
+"336",12729,"anti-","folk/country","middle cyclone","neko case",7.9,0,3,2009,735,115
+"337",12699,"kanine","folk/country","jean on jean","jean on jean",6.7,0,2,2009,735,49
+"338",12626,"humminbird","folk/country","i don't know where i'm going but i'm on my way","murry hammond",7.7,0,2,2009,735,1
+"339",12683,"lightning rod","folk/country","jason isbell and the 400 unit","jason isbell and the 400 unit",7.4,0,2,2009,735,2
+"340",12580,"young god","folk/country","parplar","larkin grimm",5.2,0,2,2009,735,37
+"341",12586,"everloving","folk/country","an invitation","van dyke parks, inara george",7.5,0,1,2009,735,6
+"342",12578,"kranky","folk/country","how shadows chase the balance","boduf songs",7.6,0,1,2009,735,170
+"343",12588,"sub pop","folk/country","stray age","daniel martin moore",5.7,0,1,2009,735,337
+"344",12513,"cheap lullaby","folk/country","changing of the seasons","ane brun",5.2,0,12,2008,735,3
+"345",12481,"asthmatic kitty","folk/country","ropechain","grampall jookabox",5.4,0,12,2008,735,74
+"346",12426,"domino","folk/country","parallax error beheads you","max tundra",8.5,0,11,2008,735,284
+"347",12404,"k","folk/country","nature's got away","karl blau",7.7,0,11,2008,735,98
+"348",12393,"metal blade","folk/country","twilight of the thunder god","amon amarth",7.7,0,11,2008,735,23
+"349",12409,"vapor","folk/country","surfing","megapuss",5.9,0,11,2008,735,7
+"350",12382,"ba da bing!","folk/country","the inbetween","essie jain",6.9,0,11,2008,735,34
+"351",12372,"western vinyl","folk/country","fortune","callers",7.8,0,10,2008,735,52
+"352",12331,"columbia","folk/country","johnny cash at folsom prison: legacy edition","johnny cash",9.7,0,10,2008,735,242
+"353",12308,"transdreamer","folk/country","dirt don't hurt","holly golightly & the brokeoffs",7,0,10,2008,735,3
+"354",12297,"domino","folk/country","un da","juana molina",7.5,0,10,2008,735,284
+"355",12274,"united interests","folk/country","a picture of the three of us at the gate to the garden of eden","these united states",4.2,0,10,2008,735,1
+"356",12254,"warm","folk/country","outside our gates","liz durrett",7.2,0,10,2008,735,12
+"357",12222,"rare book room","folk/country","necima","lia ices",7.4,0,9,2008,735,10
+"358",12228,"thrill jockey","folk/country","the mighty ship","angela desveaux",6.8,0,9,2008,735,320
+"359",12206,"almost gold","folk/country","exit","shugo tokumaru",8,0,9,2008,735,14
+"360",12164,"language of stone","folk/country","seven lucky plays, or how to fix songs for a broken heart","ilya monosov",4.8,0,9,2008,735,6
+"361",12164,"ilya monosov","folk/country","seven lucky plays, or how to fix songs for a broken heart","ilya monosov",4.8,0,9,2008,735,1
+"362",12146,"ryko","folk/country","waiting in vain","james jackson toth",4.1,0,9,2008,735,41
+"363",12108,"carpark","folk/country","why is bear billowing?","lesser gonzalez alvarez",6.7,0,8,2008,735,67
+"364",12098,"sub pop","folk/country","nothing is precious enough for us","death vessel",7.4,0,8,2008,735,337
+"365",12045,"marriage","folk/country","wars and tornadoes","drakkar sauna",6.5,0,8,2008,735,12
+"366",12038,"child of microtones","folk/country","kissing the contemporary bliss","dredd foole",7.4,0,7,2008,735,1
+"367",11914,"afternoon","folk/country","big star","haley bonar",7.1,0,7,2008,735,5
+"368",12021,"secretly canadian","folk/country","a certain feeling","bodies of water",7.9,0,7,2008,735,149
+"369",12009,"delmore","folk/country","green rocky road","karen dalton",8,0,7,2008,735,3
+"370",11996,"5440' or fight!","folk/country","everyone is crying out to me, beware","alina simone",7.4,0,7,2008,735,4
+"371",11974,"agoo","folk/country","verbs","au",6.8,0,7,2008,735,1
+"372",11997,"durtro","folk/country","the fox's wedding","sharron kraus",7.7,0,7,2008,735,6
+"373",11962,"david karsten daniels","folk/country","fear of flying","david karsten daniels",5.9,0,7,2008,735,1
+"374",11956,"tall firs","folk/country","too old to die young","tall firs",5.8,0,7,2008,735,1
+"375",11957,"saddle creek","folk/country","someone else's deja vu","son, ambulance",5.4,0,7,2008,735,98
+"376",11932,"vanguard","folk/country","fire songs","the watson twins",4.6,0,6,2008,735,9
+"377",11930,"vhf","folk/country","fern knight","fern knight",7.1,0,6,2008,735,19
+"378",11926,"misra","folk/country","dual hawks","south san gabriel",6.9,0,6,2008,735,46
+"379",11688,"neurot","folk/country","the wake","scott kelly",6.5,0,6,2008,735,25
+"380",11915,"tompkins square","folk/country","litany of echoes","james blackshaw",8.3,0,6,2008,735,29
+"381",11555,"fonal","folk/country","laulu laakson kukista","paavoharju",8.3,0,6,2008,735,21
+"382",11558,"absolutely kosher","folk/country","huggable dust","okay",6.5,0,6,2008,735,54
+"383",11472,"leaf","folk/country","heartcore","wildbirds & peacedrums",8,0,6,2008,735,46
+"384",11523,"team love","folk/country","sun down","nik freitas",5.8,0,6,2008,735,36
+"385",11549,"drag city","folk/country","lie down in the light","bonnie prince billy",8.7,1,5,2008,735,301
+"386",11487,"v2","folk/country","sunday at devil dirt","isobel campbell & mark lanegan",6.3,0,5,2008,735,109
+"387",11470,"yep roc","folk/country","the evangelist","robert forster",7.6,0,5,2008,735,87
+"388",11424,"language of stone","folk/country","what i want from you is sweet","orion rigel dommisse",6.4,0,5,2008,735,6
+"389",11359,"gravitation","folk/country","shallow grave","the tallest man on earth",8.3,0,5,2008,735,1
+"390",11425,"whistler","folk/country","am","karl blau",7.8,0,4,2008,735,1
+"391",11354,"realworld","folk/country","ishumar","toumast",8,0,4,2008,735,8
+"392",11354,"ryko","folk/country","ishumar","toumast",8,0,4,2008,735,41
+"393",11354,"village vert","folk/country","ishumar","toumast",8,0,4,2008,735,3
+"394",11281,"world circuit","folk/country","the mande variations","toumani diabat",8.3,0,4,2008,735,15
+"395",11672,"caldo verde","folk/country","april","sun kil moon",8.3,0,4,2008,735,32
+"396",11236,"yep roc","folk/country","iv","chatham county line",7.4,0,3,2008,735,87
+"397",11216,"empyrean","folk/country","the imagination stage","eric matthews",5.1,0,3,2008,735,8
+"398",11157,"acuarela","folk/country","david thomas broughton vs. 7 hertz","david thomas broughton, 7 hertz",7.1,0,2,2008,735,22
+"399",11191,"columbia","folk/country","the best of the johnny cash tv show, 1969-1971","johnny cash",7.5,0,2,2008,735,242
+"400",11191,"legacy","folk/country","the best of the johnny cash tv show, 1969-1971","johnny cash",7.5,0,2,2008,735,57
+"401",11120,"paw tracks","folk/country","black habit","rings",6.6,0,2,2008,735,46
+"402",11084,"skybucket","folk/country","the lost one","barton carroll",7,0,2,2008,735,4
+"403",11068,"fat cat","folk/country","gyllyng street","songs of green pheasant",7.4,0,1,2008,735,109
+"404",10996,"mint","folk/country","nothing is free","carolyn mark",7.5,0,1,2008,735,16
+"405",10991,"jagjaguwar","folk/country","little hours","spokane",6,0,1,2008,735,177
+"406",10944,"locust","folk/country","nightly things","begushkin",7.3,0,12,2007,735,38
+"407",10942,"fat cat","folk/country","cavalier","tom brosseau",4.7,0,12,2007,735,109
+"408",10832,"delmore","folk/country","cotton eyed joe: the loop tapes - live in boulder - 1962","karen dalton",8,0,12,2007,735,3
+"409",10897,"nettwerk","folk/country","catch the brass ring","ferraby lionheart",5.7,0,12,2007,735,42
+"410",10916,"six degrees","folk/country","the london book of the dead","the real tuesday weld",6.2,0,12,2007,735,15
+"411",10888,"5440' or fight!","folk/country","placelessness","alina simone",5.4,0,11,2007,735,4
+"412",10934,"drag city","folk/country","ask forgiveness","bonnie prince billy",7.6,0,11,2007,735,301
+"413",10860,"camera obscura","folk/country","to all dead sailors","christian kiefer",7.5,0,11,2007,735,4
+"414",10895,"island","folk/country","fruit tree","nick drake",8.1,0,11,2007,735,94
+"415",11628,"mint","folk/country","the virginian","neko case",7.3,0,11,2007,735,16
+"416",10644,"varese saraband","folk/country","jack of diamonds","john phillips",3,0,10,2007,735,1
+"417",10741,"gnomonsong","folk/country","carrion ep","jana hunter",6.9,0,10,2007,735,14
+"418",10741,"woodsist","folk/country","carrion ep","jana hunter",6.9,0,10,2007,735,41
+"419",10719,"anti-","folk/country","the scene of the crime","bettye lavette",7.7,0,10,2007,735,115
+"420",10651,"00:02:59","folk/country","age old hunger","christopher denny",7.4,0,10,2007,735,1
+"421",10691,"sub pop","folk/country","the shepherd's dog","iron & wine",8.6,1,9,2007,735,337
+"422",10663,"social registry","folk/country","gueen's head","christy & emily",6.2,0,9,2007,735,48
+"423",10687,"xl","folk/country","smokey rolls down thunder canyon","devendra banhart",6.5,0,9,2007,735,134
+"424",10657,"polyvinyl","folk/country","whore luck","picastro",7,0,9,2007,735,135
+"425",10584,"ember","folk/country","bobby bare sings lullabys, legends & lies (and more)","bobby bare",7.8,0,9,2007,735,1
+"426",10581,"sub pop","folk/country","hands across the void","tiny vipers",7.4,0,9,2007,735,337
+"427",10523,"undertow","folk/country","dogs & donkeys","christian kiefer",7.7,0,8,2007,735,4
+"428",10464,"thousand tongues","folk/country","ears will pop & eyes will blink","bodies of water",8.2,0,8,2007,735,2
+"429",10496,"zoe","folk/country","low country suite","king wilkie",6.2,0,8,2007,735,16
+"430",10496,"rounder","folk/country","low country suite","king wilkie",6.2,0,8,2007,735,24
+"431",10426,"dicristina","folk/country","death of the sun","matteah baim",5.5,0,7,2007,735,9
+"432",10430,"marriage","folk/country","dance positive","karl blau",7.1,0,7,2007,735,12
+"433",10391,"tsunami","folk/country","family tree","nick drake",7.1,0,7,2007,735,1
+"434",10383,"aagoo","folk/country","au","au",7.7,0,7,2007,735,3
+"435",10383,"oedipus","folk/country","au","au",7.7,0,7,2007,735,1
+"436",10287,"tompkins square","folk/country","the cloud of unknowing","james blackshaw",8.7,0,7,2007,735,29
+"437",10356,"beggars banquet","folk/country","intermission: the best of the solo recordings 1990-1997","robert forster, grant mclennan",8.5,0,6,2007,735,45
+"438",10278,"jagjaguwar","folk/country","lightning dust","lightning dust",7.2,0,6,2007,735,177
+"439",10283,"hyena","folk/country","bad blood in the city: the piety street sessions","james blood ulmer",7.6,0,6,2007,735,3
+"440",10276,"stereolaffs","folk/country","the art of the slap","scharpling & wurster",8.5,0,6,2007,735,2
+"441",10253,"drag city","folk/country","dear companion","meg baird",7.8,0,5,2007,735,301
+"442",10245,"important","folk/country","poste e telegrafi","alessandro stefana",7.8,0,5,2007,735,57
+"443",10224,"la socit expditionnaire","folk/country","blasts of holy birth","lewis & clarke",6.8,0,5,2007,735,2
+"444",10214,"bloodshake","folk/country","the dead will walk, dear","the national lights",6.3,0,5,2007,735,1
+"445",10202,"kill buffalo","folk/country","no one will know where you've been","the roadside graves",7.5,0,5,2007,735,1
+"446",10187,"gnomonsong","folk/country","there's no home","jana hunter",8,0,5,2007,735,14
+"447",10205,"badman","folk/country","we walked in song","the innocence mission",7.5,0,5,2007,735,30
+"448",10158,"fat cat","folk/country","solace in sore hands","amandine",5.1,0,5,2007,735,109
+"449",10169,"saddle creek","folk/country","lynn teeter flower","maria taylor",4.7,0,5,2007,735,98
+"450",10129,"drag city","folk/country","joanna newsom & the ys street band ep","joanna newsom",8.7,1,4,2007,735,301
+"451",10123,"ba da bing!","folk/country","we made this ourselves","essie jain",6.5,0,4,2007,735,34
+"452",10122,"touch and go","folk/country","the adventures of ghosthorse and stillborn","cocorosie",2.3,0,4,2007,735,109
+"453",10093,"hush","folk/country","pink in the sink","novi split",5.7,0,4,2007,735,22
+"454",11900,"buddha","folk/country","coat of many colors","dolly parton",7,0,4,2007,735,1
+"455",10092,"xl","folk/country","ash wednesday","elvis perkins in dearland, elvis perkins",7,0,4,2007,735,134
+"456",10053,"dulc-i-tone","folk/country","human like a house","the finches",4.5,0,4,2007,735,1
+"457",10043,"liberation music","folk/country","howling bells","howling bells",7.8,0,4,2007,735,3
+"458",10014,"barsuk","folk/country","like love lust and the open halls of the soul","jesse sykes & the sweet hereafter",6.9,0,3,2007,735,84
+"459",9979,"reflection","folk/country","what a beautiful place","catherine howe",7.6,0,3,2007,735,1
+"460",9978,"gnomonsong","folk/country","the bride of dynamite","rio en medio",5.6,0,3,2007,735,14
+"461",9958,"jetset","folk/country","ghosts of the great highway","sun kil moon",8,0,3,2007,735,33
+"462",9955,"peacefrog","folk/country","songs iii: bird on the water","marissa nadler",8.1,0,3,2007,735,7
+"463",9948,"birdman","folk/country","painted garden","greg ashley",6.5,0,3,2007,735,24
+"464",9942,"camera obscura","folk/country","saunders hollow","tanakh",7.5,0,3,2007,735,4
+"465",9934,"columbia","folk/country","ultimate gospel","johnny cash",6.3,0,2,2007,735,242
+"466",9934,"legacy","folk/country","ultimate gospel","johnny cash",6.3,0,2,2007,735,57
+"467",9902,"family vineyard","folk/country","daze on the mounts","dredd foole",7.2,0,2,2007,735,16
+"468",9885,"fat cat","folk/country","sharp teeth","david karsten daniels",7.4,0,2,2007,735,109
+"469",9886,"di cristina stair","folk/country","apron strings","the memory band",7.5,0,2,2007,735,1
+"470",9877,"narnack","folk/country","paralyzed dance, tonight","women and children",7.2,0,2,2007,735,27
+"471",9862,"ever","folk/country","sweet beliefs","cyann & ben",7.3,0,2,2007,735,3
+"472",9856,"drag city","folk/country","the amber gatherers","alasdair roberts",5.9,0,2,2007,735,301
+"473",9813,"plain","folk/country","find shelter","noah georgeson",6.8,0,1,2007,735,6
+"474",9791,"chapter","folk/country","finally","kath bloom",7.8,0,1,2007,735,5
+"475",9769,"exit stencil","folk/country","together with cats","blake miller",7.4,0,1,2007,735,2
+"476",9755,"679","folk/country","silver & fire","m. craft",6.3,0,1,2007,735,18
+"477",9748,"locust","folk/country","starless & bible black","starless & bible black",7.1,0,1,2007,735,38
+"478",9745,"new west","folk/country","live from austin, tx: austin city limits","neko case",5.5,0,1,2007,735,26
+"479",9648,"anti-","folk/country","i stand alone","ramblin' jack elliott",8,0,1,2007,735,115
+"480",9709,"nettwerk","folk/country","funnel cloud","hem",6.1,0,12,2006,735,42
+"481",9653,"table of the elements","folk/country","sea changes & coelacanths: a young persons guide to john fahey","john fahey",8.6,0,12,2006,735,20
+"482",9701,"columbia","folk/country","legends of country music","bob wills and his texas playboys",9.4,0,12,2006,735,242
+"483",9701,"legacy","folk/country","legends of country music","bob wills and his texas playboys",9.4,0,12,2006,735,57
+"484",9690,"drag city","folk/country","dat rosa mel apibus","white magic",7.7,0,12,2006,735,301
+"485",9695,"bpx1992","folk/country","cake or death","lee hazlewood",7.7,0,12,2006,735,1
+"486",9659,"fat cat","folk/country","aerial days","songs of green pheasant",7.3,0,12,2006,735,109
+"487",9644,"asthmatic kitty","folk/country","songs for christmas","sufjan stevens",7.5,0,11,2006,735,74
+"488",9623,"light in the attic","folk/country","in my own time","karen dalton",9,0,11,2006,735,61
+"489",9599,"capitol","folk/country","hag: the best of merle haggard","merle haggard",8.8,0,11,2006,735,150
+"490",9595,"acuarela","folk/country","our worn shadow","manyfingers",7.8,0,11,2006,735,22
+"491",9616,"drag city","folk/country","ys","joanna newsom",9.4,1,11,2006,735,301
+"492",9618,"columbia legacy","folk/country","at san quentin [legacy edition]","johnny cash",7.7,0,11,2006,735,10
+"493",9579,"the worker's institute","folk/country","lightness","peter and the wolf",7.8,0,11,2006,735,4
+"494",9551,"thrill jockey","folk/country","wandering eyes","angela desveaux",5.7,0,10,2006,735,320
+"495",9527,"drag city","folk/country","the black swan","bert jansch",7.9,0,10,2006,735,301
+"496",9519,"tompkins square","folk/country","a raga for peter walker","james blackshaw, jack rose, peter walker, sharron kraus, shawn david mcmillen",7.4,0,10,2006,735,29
+"497",9501,"soft abuse","folk/country","flying canyon","flying canyon",7.9,0,10,2006,735,15
+"498",9491,"kranky","folk/country","lion devours the sun","boduf songs",7,0,10,2006,735,170
+"499",9453,"sounds familyre","folk/country","mosaic","wovenhand",6.8,0,10,2006,735,17
+"500",9390,"velour","folk/country","...until we felt red","kaki king",4.7,0,10,2006,735,3
+"501",9419,"palace","folk/country","the letting go","bonnie prince billy",8.2,0,9,2006,735,7
+"502",9419,"drag city","folk/country","the letting go","bonnie prince billy",8.2,0,9,2006,735,301
+"503",9391,"empyrean","folk/country","foundation sounds","eric matthews",6.4,0,9,2006,735,8
+"504",9332,"kill rock stars","folk/country","second attention","wooden wand and the sky high band",7.8,0,8,2006,735,129
+"505",9268,"drag city","folk/country","the cursed sleep ep","bonnie prince billy",6.9,0,8,2006,735,301
+"506",9270,"nonesuch","folk/country","savane","ali farka tour",8.1,0,8,2006,735,83
+"507",9270,"world circuit","folk/country","savane","ali farka tour",8.1,0,8,2006,735,15
+"508",9233,"yep roc","folk/country","speed of the whippoorwill","chatham county line",7.1,0,7,2006,735,87
+"509",9222,"fat cat","folk/country","tooth & claw","our brother the native",5.6,0,7,2006,735,109
+"510",9198,"cooking vinyl","folk/country","1,000 years of popular music","richard thompson",7.1,0,7,2006,735,34
+"511",9176,"camera obscura","folk/country","czar nicholas is dead","christian kiefer",7.4,0,7,2006,735,4
+"512",9195,"asthmatic kitty","folk/country","the avalanche","sufjan stevens",7.2,0,7,2006,735,74
+"513",9156,"absolutely kosher","folk/country","hearts","the court & spark",5.3,0,7,2006,735,54
+"514",9149,"unknown","folk/country","come into our house","nick castro and the young elders",7,0,7,2006,735,12
+"515",9179,"lost highway","folk/country","american v: a hundred highways","johnny cash",7.8,0,7,2006,735,27
+"516",9179,"american","folk/country","american v: a hundred highways","johnny cash",7.8,0,7,2006,735,14
+"517",9068,"domino","folk/country","son","juana molina",7.8,0,6,2006,735,284
+"518",9052,"columbia","folk/country","personal file","johnny cash",8.5,0,5,2006,735,242
+"519",11875,"important","folk/country","macy's day bird / black with green leaves","diane cluck",6.1,0,5,2006,735,57
+"520",1205,"v2","folk/country","a temporary dive","ane brun",7.7,0,5,2006,735,109
+"521",8968,"k","folk/country","beneath waves","karl blau",7.6,0,5,2006,735,98
+"522",9010,"pickled egg","folk/country","do the musiking","the big eyes family players",7.1,0,5,2006,735,3
+"523",2598,"warm","folk/country","the mezzanine","liz durrett",5.6,0,5,2006,735,12
+"524",4682,"roir","folk/country","gold brick","jon langford",5.7,0,4,2006,735,10
+"525",5685,"young god","folk/country","mi and l'au","mi and l'au",7.3,0,4,2006,735,37
+"526",7929,"alien8","folk/country","ardent fevers","tanakh",7.8,0,4,2006,735,55
+"527",3364,"gnomonsong","folk/country","feathers","feathers",7.7,0,4,2006,735,14
+"528",1834,"shout! factory","folk/country","out of the ashes","jessi colter",7,0,3,2006,735,20
+"529",4609,"tompkins square","folk/country","the black dove","christian kiefer",7.4,0,3,2006,735,29
+"530",11709,"important","folk/country","oh vanille/ova nil","diane cluck",5.7,0,3,2006,735,57
+"531",1747,"v2","folk/country","ballad of the broken seas","isobel campbell & mark lanegan",7.2,0,3,2006,735,109
+"532",1325,"epitaph","folk/country","fox confessor brings the flood","neko case",7.7,0,3,2006,735,52
+"533",1325,"anti-","folk/country","fox confessor brings the flood","neko case",7.7,0,3,2006,735,115
+"534",1197,"important","folk/country","o true believers","james blackshaw",7.7,0,3,2006,735,57
+"535",4608,"little dog","folk/country","snow","curt kirkwood",7.2,0,2,2006,735,1
+"536",11752,"capitol","folk/country","strangers/swinging doors and the bottle let me down","merle haggard",8.8,0,2,2006,735,150
+"537",3995,"nettwerk","folk/country","no word from tom","hem",6.2,0,2,2006,735,42
+"538",3995,"waveland","folk/country","no word from tom","hem",6.2,0,2,2006,735,4
+"539",3689,"secret eye","folk/country","harpoon","larkin grimm",7.6,0,2,2006,735,6
+"540",705,"overcoat","folk/country","the brave and the bold","tortoise, bonnie prince billy",5.4,0,1,2006,735,21
+"541",1193,"blue baby","folk/country","boduf songs","boduf songs",7,0,1,2006,735,1
+"542",1192,"plug research","folk/country","the complete guide to insufficiency","david thomas broughton",8.4,0,1,2006,735,38
+"543",1192,"birdwar","folk/country","the complete guide to insufficiency","david thomas broughton",8.4,0,1,2006,735,1
+"544",3226,"drag city","folk/country","it's a game","edith frost",5.8,0,1,2006,735,301
+"545",493,"fat cat","folk/country","this is where our hearts collide","amandine",7.6,0,12,2005,735,109
+"546",8271,"compare notes","folk/country","l.s.t.","shugo tokumaru",7,0,12,2005,735,2
+"547",4603,"table of the elements","folk/country","february","jonathan kane",7.4,0,12,2005,735,20
+"548",2632,"north east indie","folk/country","stay close","death vessel",7.2,0,11,2005,735,6
+"549",7723,"caldo verde","folk/country","tiny cities","sun kil moon",3,0,11,2005,735,32
+"550",4026,"gnomonsong","folk/country","blank unstaring heirs of doom","jana hunter",7.7,0,11,2005,735,14
+"551",7836,"fat cat","folk/country","songs of green pheasant","songs of green pheasant",7.3,0,11,2005,735,109
+"552",704,"sea note","folk/country","summer in the southeast","bonnie prince billy",7.1,0,11,2005,735,2
+"553",6952,"vhf","folk/country","kensington blues","jack rose",8,0,11,2005,735,19
+"554",4349,"asthmatic kitty","folk/country","liz janes & create(!)","liz janes",7.2,0,10,2005,735,74
+"555",8027,"cooking vinyl","folk/country","front parlour ballads","richard thompson",7.7,0,10,2005,735,34
+"556",3700,"nettwerk","folk/country","love what you do","hackensaw boys",6.9,0,10,2005,735,42
+"557",1757,"touch and go","folk/country","noah's ark","cocorosie",3.4,0,9,2005,735,109
+"558",1029,"matador","folk/country","a ass pocket of whiskey","r.l. burnside",7.7,0,9,2005,735,231
+"559",6583,"fonal","folk/country","yh hmr","paavoharju",7.8,0,9,2005,735,21
+"560",4129,"overcoat","folk/country","in the reins ep","calexico, iron & wine",8.5,0,9,2005,735,21
+"561",6704,"six degrees","folk/country","the return of the clerkenwell kid","the real tuesday weld",6.9,0,9,2005,735,15
+"562",553,"xl","folk/country","cripple crow","devendra banhart",8.4,1,9,2005,735,134
+"563",11659,"","folk/country","devendra banhart/ jana hunter","devendra banhart, jana hunter",7,0,9,2005,735,NA
+"564",1817,"columbia","folk/country","keep on the sunny side: june carter cash-- her life in music","june carter cash",7.7,0,9,2005,735,242
+"565",1817,"legacy","folk/country","keep on the sunny side: june carter cash-- her life in music","june carter cash",7.7,0,9,2005,735,57
+"566",5163,"saddle creek","folk/country","bushido karaoke","mayday",7.5,0,8,2005,735,98
+"567",5918,"astralwerks","folk/country","holes in the valley","nations by the river",5.4,0,8,2005,735,195
+"568",1333,"columbia","folk/country","the legend","johnny cash",9,0,8,2005,735,242
+"569",2931,"planet ","folk/country","pro agonist","exile",6.9,0,7,2005,735,16
+"570",7815,"misra","folk/country","the view from the floor","slow dazzle",5.8,0,7,2005,735,46
+"571",7514,"asthmatic kitty","folk/country","illinois","sufjan stevens",9.2,1,7,2005,735,74
+"572",4947,"darla","folk/country","dark end road","lowlights",7.7,0,6,2005,735,50
+"573",8026,"new west","folk/country","live from austin tx","richard thompson",7.6,0,6,2005,735,26
+"574",8290,"saddle creek","folk/country","11:11","maria taylor",6.2,0,6,2005,735,98
+"575",5908,"eclipse","folk/country","the saga of mayflower may","marissa nadler",7.8,0,5,2005,735,9
+"576",1806,"yep roc","folk/country","route 23","chatham county line",7.3,0,5,2005,735,87
+"577",6570,"polyvinyl","folk/country","metal cares","picastro",7.5,0,5,2005,735,135
+"578",6111,"essay","folk/country","trans balkan express","omfo",3.9,0,4,2005,735,4
+"579",11797,"absolutely kosher","folk/country","low road","okay",7.7,0,4,2005,735,54
+"580",7809,"misra","folk/country","the carlton chronicles: not until the operation's through","south san gabriel",6,0,4,2005,735,46
+"581",4255,"bloodshot","folk/country","rivers roll on by","jim and jennie and the pinetops",7.3,0,4,2005,735,29
+"582",7807,"fractured discs","folk/country","prettier in the dark ep","alina simone",7.2,0,4,2005,735,1
+"583",4982,"soft abuse","folk/country","as upon the road thereto","langtry",7.1,0,3,2005,735,15
+"584",8092,"plug research","folk/country","manzanita","mia doi todd",6.9,0,3,2005,735,38
+"585",2599,"warm","folk/country","husk","liz durrett",5.4,0,3,2005,735,12
+"586",4128,"sub pop","folk/country","woman king ep","iron & wine",8.5,0,2,2005,735,337
+"587",2947,"water","folk/country","the great santa barbara oil slick","john fahey",8.2,0,2,2005,735,4
+"588",205,"temporary residence","folk/country","joji","the anomoanon",7.9,0,2,2005,735,121
+"589",3994,"rounder","folk/country","eveningland","hem",8.1,0,1,2005,735,24
+"590",3994,"waveland","folk/country","eveningland","hem",8.1,0,1,2005,735,4
+"591",8603,"ba da bing!","folk/country","blood is trouble","greg weeks",8,0,1,2005,735,34
+"592",5907,"eclipse","folk/country","ballads of living and dying","marissa nadler",8,0,12,2004,735,9
+"593",6559,"baryon","folk/country","tell it to the dust","anders parker",7.7,0,12,2004,735,1
+"594",8761,"sounds familyre","folk/country","consider the birds","wovenhand",8.5,0,11,2004,735,17
+"595",2446,"island","folk/country","a treasury","nick drake",3.3,0,11,2004,735,94
+"596",7928,"alien8","folk/country","tanakh","tanakh",7.6,0,11,2004,735,55
+"597",4348,"asthmatic kitty","folk/country","poison & snakes","liz janes",6,0,11,2004,735,74
+"598",1324,"anti-","folk/country","the tigers have spoken","neko case",7.6,0,11,2004,735,115
+"599",7708,"in music we trust","folk/country","matt sharp","matt sharp",6.3,0,10,2004,735,4
+"600",1637,"absolutely kosher","folk/country","witch season","the court & spark",7.8,0,10,2004,735,54
+"601",3225,"comfort stand","folk/country","demos","edith frost",7.9,0,10,2004,735,2
+"602",7327,"saddle creek","folk/country","key","son ambulance",7.5,0,10,2004,735,98
+"603",1722,"locust","folk/country","happy like an autumn tree","cyann & ben",7.2,0,10,2004,735,38
+"604",3993,"arena rock","folk/country","birds, beasts & flowers ep","the autumn defense, hem",6.8,0,10,2004,735,29
+"605",8270,"music related","folk/country","night piece","shugo tokumaru",8.6,0,9,2004,735,2
+"606",8272,"candlebone","folk/country","head off","moris tepper",7.5,0,9,2004,735,2
+"607",550,"young god","folk/country","nio rojo","devendra banhart",8,0,9,2004,735,37
+"608",8780,"drag city","folk/country","through the sun door ep","white magic",7.4,0,9,2004,735,301
+"609",3989,"grnland","folk/country","the function room","half cousin",8.1,0,8,2004,735,11
+"610",1636,"absolutely kosher","folk/country","dead diamond river ep","the court & spark",7.4,0,8,2004,735,54
+"611",5593,"domino","folk/country","tres cosas","juana molina",7.2,0,7,2004,735,284
+"612",3978,"agenda","folk/country","honey for dinner","peggy honeywell",7,0,7,2004,735,1
+"613",7513,"orchard","folk/country","a sun came [2nd edition]","sufjan stevens",6,0,7,2004,735,4
+"614",8958,"northern liberties","folk/country","sixteen songs","don zientara",7,0,7,2004,735,3
+"615",7766,"barsuk","folk/country","oh, my girl","jesse sykes & the sweet hereafter",7.6,0,7,2004,735,84
+"616",7927,"alien8","folk/country","dieu deuil","tanakh",8.1,0,6,2004,735,55
+"617",2048,"locust","folk/country","met life series 2-6","au, reynols, erdem helvacioglu, chris delaurenti, matmos",7.3,0,6,2004,735,38
+"618",4681,"bloodshot","folk/country","all the fame of lofty deeds","jon langford",8.4,0,6,2004,735,29
+"619",2906,"sonic unyon","folk/country","with christopher sandes featuring pickles and price","andre ethier",8.2,0,6,2004,735,12
+"620",2445,"island","folk/country","made to love magic","nick drake",6.7,0,5,2004,735,94
+"621",204,"box tree","folk/country","the derby ram","the anomoanon",8.1,0,5,2004,735,3
+"622",6537,"red buttons","folk/country","blue cotton skin","petracovich",7,0,5,2004,735,2
+"623",3422,"shout! factory","folk/country","chickasaw county child: the artistry of bobbie gentry","bobbie gentry",8,0,5,2004,735,20
+"624",4961,"interscope","folk/country","van lear rose","loretta lynn",9.3,1,4,2004,735,174
+"625",6703,"six degrees","folk/country","i, lucifer","the real tuesday weld",7.8,0,4,2004,735,15
+"626",7752,"matador","folk/country","lay of the land","seachange",5.6,0,4,2004,735,231
+"627",1103,"vinyl junkie","folk/country","if we can't trust the doctors","blanche",6.7,0,3,2004,735,1
+"628",4127,"sub pop","folk/country","our endless numbered days","iron & wine",8.6,1,3,2004,735,337
+"629",4076,"badman","folk/country","i need you","ill lit",6.9,0,3,2004,735,30
+"630",702,"drag city","folk/country","greatest palace music","bonnie prince billy",5,0,3,2004,735,301
+"631",5893,"drag city","folk/country","the milk-eyed mender","joanna newsom",8,0,3,2004,735,301
+"632",7512,"sounds familyre","folk/country","seven swans","sufjan stevens",8.1,1,3,2004,735,17
+"633",548,"young god","folk/country","rejoicing in the hands","devendra banhart",8.4,1,3,2004,735,37
+"634",1756,"touch and go","folk/country","la maison de mon reve","cocorosie",6.9,0,3,2004,735,109
+"635",8686,"kimchee","folk/country","regard the end","willard grant conspiracy",3.9,0,3,2004,735,5
+"636",203,"western vinyl","folk/country","portrait of entwistle ep","the anomoanon",8.2,0,2,2004,735,52
+"637",8766,"sony","folk/country","cold mountain","jack white, alison krauss",7.1,0,1,2004,735,72
+"638",2897,"monitor","folk/country","goodbye little doll","ez t",7.9,0,1,2004,735,23
+"639",7425,"jagjaguwar","folk/country","measurement","spokane",6.3,0,1,2004,735,177
+"640",7722,"jetset","folk/country","ghosts of the great highway","sun kil moon",8.3,0,11,2003,735,33
+"641",8762,"southern","folk/country","hymns for the hopeless","william elliott whitmore",7.5,0,10,2003,735,32
+"642",8760,"sounds familyre","folk/country","blush music","wovenhand",8.4,0,10,2003,735,17
+"643",1721,"gooom","folk/country","spring","cyann & ben",8.4,1,10,2003,735,15
+"644",7707,"in music we trust","folk/country","puckett's versus the country boy ep","matt sharp",5.5,0,9,2003,735,4
+"645",4125,"sub pop","folk/country","the sea and the rhythm ep","iron & wine",8.4,0,9,2003,735,337
+"646",5170,"family vineyard","folk/country","the departing of a dream, vol. ii","loren connors",6.7,0,9,2003,735,16
+"647",1719,"in the red","folk/country","secret weapon revealed at last","country teasers",3.1,0,8,2003,735,81
+"648",6800,"drag city","folk/country","farewell sorrow","alasdair roberts",7.5,0,8,2003,735,301
+"649",4946,"darla","folk/country","lowlights","lowlights",7.9,0,8,2003,735,50
+"650",6521,"kapp","folk/country","parallelograms","linda perhacs",8.6,0,8,2003,735,1
+"651",1375,"truckstop","folk/country","love and easy living","central falls",6.5,0,8,2003,735,12
+"652",2507,"bad man","folk/country","even further behind","dave derby",7.1,0,7,2003,735,3
+"653",7510,"asthmatic kitty","folk/country","greetings from michigan: the great lakes state","sufjan stevens",8.5,1,7,2003,735,74
+"654",7510,"sounds familyre","folk/country","greetings from michigan: the great lakes state","sufjan stevens",8.5,1,7,2003,735,17
+"655",4104,"badman","folk/country","befriended","the innocence mission",7.6,0,7,2003,735,30
+"656",6126,"darla","folk/country","these are the new good times","pale horse and rider",6.3,0,7,2003,735,50
+"657",1520,"mush","folk/country","come here when you sleepwalk","clue to kalo",7,0,7,2003,735,39
+"658",7176,"sad robot","folk/country","trickboxes on the pony line","sin ropas",8.6,0,6,2003,735,2
+"659",5380,"alien8","folk/country","a slow messe","molasses",2.7,0,6,2003,735,55
+"660",5380,"fancy","folk/country","a slow messe","molasses",2.7,0,6,2003,735,2
+"661",5162,"bar/none","folk/country","i know your troubles been long","mayday",7.3,0,6,2003,735,21
+"662",3872,"badman","folk/country","prospect park","james william hindle",6.1,0,6,2003,735,30
+"663",201,"temporary residence","folk/country","asleep many years in the wood","the anomoanon",7.9,0,6,2003,735,121
+"664",547,"young god","folk/country","the black babies ep","devendra banhart",7.7,0,6,2003,735,37
+"665",2946,"takoma","folk/country","old fashioned love","john fahey",8.4,0,6,2003,735,1
+"666",3699,"hackensaw boys","folk/country","keep it simple","hackensaw boys",7.7,0,5,2003,735,1
+"667",8516,"northside","folk/country","iki","vrttin",8.3,0,5,2003,735,1
+"668",7710,"stereolaffs","folk/country","rock, rot & rule","scharpling & wurster",7.7,0,5,2003,735,2
+"669",2945,"revenant","folk/country","red cross","john fahey",7.3,0,5,2003,735,6
+"670",8602,"acuarela","folk/country","slightly west ep","greg weeks",6.8,0,4,2003,735,22
+"671",795,"knw-yr-own","folk/country","clothes your i's","karl blau",8,0,3,2003,735,3
+"672",4680,"bloodshot","folk/country","mayors of the moon","jon langford, the sadies",7.2,0,3,2003,735,29
+"673",4106,"orange twin","folk/country","billions of phonographs","the instruments",6.7,0,3,2003,735,18
+"674",2305,"sepia-tone","folk/country","dixie fried","james luther dickinson",7.7,0,2,2003,735,1
+"675",874,"sixgunlover","folk/country","ally in the sky","bosco and jorge",6.9,0,2,2003,735,2
+"676",698,"palace","folk/country","master and everyone","bonnie prince billy",6,0,1,2003,735,7
+"677",698,"drag city","folk/country","master and everyone","bonnie prince billy",6,0,1,2003,735,301
+"678",8356,"cuneiform","folk/country","rhythmix","univers zero",6,0,12,2002,735,9
+"679",3784,"astralwerks","folk/country","total lee!: the songs of lee hazlewood","lee hazlewood",7.1,0,12,2002,735,195
+"680",980,"absolutely kosher","folk/country","a cat may look at a queen","franklin bruno",8,0,11,2002,735,54
+"681",1331,"american","folk/country","american iv: the man comes around","johnny cash",6.9,0,11,2002,735,14
+"682",5109,"mint","folk/country","terrible hostess","carolyn mark",6.3,0,11,2002,735,16
+"683",546,"young god","folk/country","oh me oh my...","devendra banhart",7.8,0,11,2002,735,37
+"684",4075,"badman","folk/country","wacmusic","ill lit",7,0,10,2002,735,30
+"685",4126,"sub pop","folk/country","the creek drank the cradle","iron & wine",8.1,0,10,2002,735,337
+"686",4132,"thrill jockey","folk/country","cut yourself a switch","catherine irwin",8.5,0,9,2002,735,320
+"687",8091,"columbia","folk/country","the golden state","mia doi todd",7,0,9,2002,735,242
+"688",5160,"tigerbeat6","folk/country","mastered by guy at the exchange","max tundra",9.3,0,9,2002,735,36
+"689",3385,"warp","folk/country","recordings of music for film","vincent gallo",2.9,0,8,2002,735,239
+"690",1323,"bloodshot","folk/country","blacklisted","neko case",7.9,0,8,2002,735,29
+"691",7926,"alien8","folk/country","villa claustrophobia","tanakh",8.4,0,8,2002,735,55
+"692",200,"galaxia","folk/country","envoi villon ep","the anomoanon",8,0,8,2002,735,3
+"693",7424,"jagjaguwar","folk/country","able bodies","spokane",7.2,0,8,2002,735,177
+"694",8684,"konkurrent","folk/country","in the fishtank (with telefunk)","willard grant conspiracy",5.4,0,7,2002,735,11
+"695",4277,"k","folk/country","what was me","calvin johnson",6.9,0,7,2002,735,98
+"696",5171,"family vineyard","folk/country","the departing of a dream","loren connors",7.5,0,6,2002,735,16
+"697",5161,"saddle creek","folk/country","old blood","mayday",8.2,0,6,2002,735,98
+"698",1376,"truckstop","folk/country","latitude","central falls",5.3,0,6,2002,735,12
+"699",3795,"kitty-yo","folk/country","infinite love songs","maximilian hecker",5.4,0,5,2002,735,3
+"700",4254,"overcoat","folk/country","one more in the cabin","jim and jennie and the pinetops",6.4,0,5,2002,735,21
+"701",4376,"mr. lady","folk/country","oregon","kaia",6.5,0,5,2002,735,16
+"702",244,"shinglestreet","folk/country","a warm and yeasty corner ep","appendix out",7.4,0,5,2002,735,1
+"703",7326,"saddle creek","folk/country","euphemystic","son ambulance",6.2,0,4,2002,735,98
+"704",197,"hush","folk/country","a school of secret dangers","amy annelle",7.8,0,2,2002,735,22
+"705",5282,"jade tree","folk/country","miighty flashlight","miighty flashlight",6.7,0,2,2002,735,47
+"706",6702,"kindercore","folk/country","where psyche meets cupid","the real tuesday weld",7,0,2,2002,735,22
+"707",3878,"!k7","folk/country","titles and idols","beth hirsch",6.2,0,2,2002,735,85
+"708",3873,"badman","folk/country","james william hindle","james william hindle",7.5,0,12,2001,735,30
+"709",8578,"grob","folk/country","tribute to masayuki takayanagi","fred lonberg-holm, jim orourke, weasel walter",7.9,0,11,2001,735,3
+"710",7423,"jagjaguwar","folk/country","the proud graduates","spokane",7.9,0,11,2001,735,177
+"711",4836,"hush","folk/country","col. summers park","jeff london",5.7,0,11,2001,735,22
+"712",8090,"city zen","folk/country","zeroone","mia doi todd",7.1,0,11,2001,735,1
+"713",3384,"warp","folk/country","when","vincent gallo",7.3,0,11,2001,735,239
+"714",873,"explain","folk/country","bosco and jorge","bosco and jorge",6.9,0,10,2001,735,1
+"715",7511,"asthmatic kitty","folk/country","enjoy your rabbit","sufjan stevens",7.7,0,10,2001,735,74
+"716",1635,"absolutely kosher","folk/country","bless you","the court & spark",8.4,0,10,2001,735,54
+"717",3222,"drag city","folk/country","wonder wonder","edith frost",8.7,0,10,2001,735,301
+"718",5444,"magnetic motorworks","folk/country","never mind the context","moth wranglers",7.3,0,9,2001,735,1
+"719",8685,"ryko","folk/country","everything's fine","willard grant conspiracy",5.9,0,3,2001,735,41
+"720",701,"palace","folk/country","ease down the road","bonnie prince billy",7.9,0,3,2001,735,7
+"721",7213,"kindercore","folk/country","up the country","sixth great lake",8,0,3,2001,735,22
+"722",202,"palace","folk/country","the anomoanon","the anomoanon",7.7,0,2,2001,735,7
+"723",245,"drag city","folk/country","the night is advancing","appendix out",8.3,0,2,2001,735,301
+"724",5159,"domino","folk/country","some best friend you turned out to be","max tundra",9.2,0,12,2000,735,284
+"725",3704,"epitaph","folk/country","if i could only fly","merle haggard",7.6,0,10,2000,735,52
+"726",3704,"anti-","folk/country","if i could only fly","merle haggard",7.6,0,10,2000,735,115
+"727",700,"palace","folk/country","get on jolly ep","bonnie prince billy, marquis de tren",7,0,9,2000,735,7
+"728",1332,"american","folk/country","american iii: solitary man","johnny cash",8.6,0,9,2000,735,14
+"729",7177,"perishable","folk/country","three cherries","sin ropas",7.8,0,1,2000,735,13
+"730",699,"palace","folk/country","i see a darkness","bonnie prince billy",10,0,9,1999,735,7
+"731",4910,"bar/none","folk/country","song","lullaby for the working class",4.8,0,9,1999,735,21
+"732",3785,"smells like","folk/country","requiem for an almost lady","lee hazlewood",8.4,0,9,1999,735,3
+"733",3224,"drag city","folk/country","love is real ep","edith frost",7.7,0,7,1999,735,301
+"734",246,"drag city","folk/country","daylight saving","appendix out",8.4,0,7,1999,735,301
+"735",3741,"zero hour","folk/country","trad arr jones","john wesley harding",7.3,0,2,1999,735,1
