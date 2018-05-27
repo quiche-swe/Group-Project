@@ -11,6 +11,7 @@ my_server <- function(input, output) {
      reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
      genre_reviews <- filter(reviews, genre == reactive_genre)
      genre_reviews <- filter(reviews, year == reactive_year)
+     
      plot_title <- paste(reactive_genre, "Album Scores in", sep = " ")
      plot_title <- paste(title, reactive_year, sep = " ")
      
