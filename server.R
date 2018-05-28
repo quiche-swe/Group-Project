@@ -25,6 +25,13 @@ my_server <- function(input, output) {
       )
     p2
   })
+  
+  observeEvent(input$my_click_key, {
+    output$plot2_info <- renderPrint({
+      paste0("As shown by the graph above, the average rating score of ",input$genre, " is ",
+             round(as.numeric(input$my_click_key$y, 2)), " in ", round(as.numeric(input$my_click_key$x, 2)))
+    })
+  })
 }
 
 shinyServer(my_server)

@@ -14,7 +14,13 @@ my_ui <- fluidPage (
                   genre)
     ),
     mainPanel(
-      plotOutput('plot2')
+      p("By choosing a music genre from the left widget, you can see how the popularity of genre changed over time.
+        The score (out of 10) is calculated by taking the average score of all the songs belonging to this genre.
+        You can also click on the graph to see the exact score and corresponding year."),
+      p(" "),
+      
+      plotOutput('plot2', click = 'my_click_key'),
+      verbatimTextOutput('plot2_info')
     )
   )
 )
