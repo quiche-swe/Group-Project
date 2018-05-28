@@ -1,3 +1,4 @@
+
 library(dplyr)
 library(ggplot2)
 library(plotly)
@@ -67,4 +68,38 @@ my_server <- function(input, output) {
       plot_info <- paste(plot_info, ".")
    return(plot_info)
   })
+
+  reactive_genre <- reactive({
+    input$genre
+  })
+  
+  output$plot2 <- renderPlot({
+    cleaned_reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
+    filter_genre <- cleaned_reviews %>%
+      filter(genre == reactive_genre()) %>%
+      select(genre, score, pub_year) %>%
+      group_by(pub_year) %>%
+      summarise(average = mean(score))
+    
+    p2 <- ggplot(data = filter_genre) +
+      geom_line(mapping = aes(x = pub_year, y = average)) +
+      geom_point(mapping = aes(x = pub_year, y = average, color = reactive_genre())) +
+      labs(
+        title = "Genre Popularity Over Time", 
+        x = "Year (year)", # x-axis label 
+        y = "Score (out of 10)", # y-axis label 
+        color = "Genre"
+      )
+    p2
+  })
+  
+  observeEvent(input$my_click_key, {
+    output$plot2_info <- renderPrint({
+      paste0("As shown by the graph above, the average rating score of ",input$genre, " is ",
+             round(as.numeric(input$my_click_key$y, 2)), " in ", round(as.numeric(input$my_click_key$x, 2)))
+    })
+  })
 }
+
+shinyServer(my_server)
+
