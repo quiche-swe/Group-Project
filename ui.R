@@ -1,3 +1,9 @@
+library(magrittr)
+library(dplyr)
+library(ggplot2)
+library(plotly)
+source("uniqueCalc.R")
+
 cleaned_reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
 genre <- cleaned_reviews %>%
   distinct(genre)
@@ -8,10 +14,13 @@ my_ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       selectInput("select", label = h3("Genre"),
-                  choices = list("Electronic" = 1, "Experimental" = 2, "Folk and Country" = 3, "Global (int'l. music)" = 4, "Jazz" = 5,
-                                 "Metal" = 6, "Pop" = 7,"Rap" = 8, "Rock" = 9, "Undefined (No genre labeled)" = 10),
-                  selected = 7
+                  choices = list("Electronic" = "electronic", "Experimental" = "experimental", "Folk and Country" = "folk/country", "Global (int'l. music)" = "global", "Jazz" = "jazz",
+                                 "Metal" = "metal", "Pop and R&B" = "pop/r&b", "Rap" = "rap", "Rock" = "rock", "Undefined (No genre labeled)" = ""),
+                  selected = "pop/r&b"
       ),
+      sliderInput("year", "Year:",
+                  min = 1999, max = 2017,
+                  value = 2015),
       sliderInput("range", "Range:",
                   min = 1, max = 475,
                   value = c(1,475)
