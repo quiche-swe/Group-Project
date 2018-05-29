@@ -26,13 +26,13 @@ my_server <- function(input, output) {
                x = "",
                y = "Album Score (out of 10.0)"
             )
-         ggplotly(plot) %>%
+         ggplotly(plot_1) %>%
             layout(ragmode = "select")
       } else {
          plot_1 <- plot_ly(genre_reviews, x = ~artist, y = ~score) %>%
             layout(dragmode = "select")
       }
-      return(plot)
+      return(plot_1)
    })
    
       output$hover <- renderPrint({
@@ -104,7 +104,7 @@ my_server <- function(input, output) {
   output$plot3 <- renderTable({
     
     input_table <- unique_albums %>%
-      filter(input$uq_search == artist) 
+      filter(tolower(input$uq_search) == artist) 
   })
 }
 

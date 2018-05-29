@@ -33,7 +33,7 @@ my_ui <- fluidPage(
         plotOutput('plot2', click = 'my_click_key'),
         verbatimTextOutput('plot2_info'),
         
-        textInput("uq_search", label = h3("Search for Artist", value = "Enter artist...")),
+        textInput("uq_search", label = h3("Search for Artist"), value = "Enter artist..."),
         
         tableOutput("plot3")
         
