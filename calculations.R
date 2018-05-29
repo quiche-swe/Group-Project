@@ -1,5 +1,40 @@
 library(dplyr)
 
+# if (identical(input$plotType, "ggplotl")) {
+#    plot_1 <- ggplot(genre_reviews, aes(x = artist, y = score)) +
+#       geom_point() +
+#       labs(
+#          title = plot_title,
+#          x = "Artist",
+#          y = "Album Score (out of 10.0)"
+#       )
+#    ggplotly(plot) %>%
+#       layout(ragmode = "select")
+# } else {
+#
+# }
+
+reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
+genre_reviews <- filter(reviews, genre == "rock")
+genre_reviews <- filter(reviews, pub_year == "2017")
+
+plot_title <- paste("reactive_genre", "Album Scores in", sep = " ")
+plot_title <- paste(plot_title, "reactive_year", sep = " ")
+
+# plot_1 <- plot_ly(data = genre_reviews, aes(x = ~artist, y = ~score, color = ~score, colors = "Set1")) %>%
+#    layout(dragmode = "select")
+
+plot_1 <- ggplot(genre_reviews, aes(x = artist, y = score, color = score)) +
+   geom_point() +
+   labs(
+      title = "plot_title",
+      x = "",
+      y = "Album Score (out of 10.0)"
+   )
+ggplotly(plot) %>%
+   layout(ragmode = "select")
+
+
 artists <- read.csv(file = "data/artists.csv", stringsAsFactors = FALSE)
 genres <- read.csv(file = "data/genres.csv", stringsAsFactors = FALSE)
 labels <- read.csv(file = "data/labels.csv", stringsAsFactors = FALSE)
@@ -118,7 +153,7 @@ good_undefined <- filter(good_labels, genre == "undefined")
 good_electronic <- filter(good_labels, genre == "electronic")
 good_experimental <- filter(good_labels, genre == "experimental")
 ood_pop_rb <- filter(good_labels, genre == "pop_r&b")
-good_folk_country <- filter(good_labels, genre == "folk_country"
+good_folk_country <- filter(good_labels, genre == "folk_country")
 good_global <- filter(good_labels, genre == "global")
 good_metal <- filter(good_labels, genre == "metal")
 
