@@ -1,7 +1,7 @@
-
 library(dplyr)
 library(ggplot2)
 library(plotly)
+library(shiny)
 source("uniqueCalc.R")
 
 my_server <- function(input, output) {
@@ -26,13 +26,13 @@ my_server <- function(input, output) {
                x = "",
                y = "Album Score (out of 10.0)"
             )
-         ggplotly(plot) %>%
+         ggplotly(plot_1) %>%
             layout(ragmode = "select")
       } else {
          plot_1 <- plot_ly(genre_reviews, x = ~artist, y = ~score) %>%
             layout(dragmode = "select")
       }
-      return(plot)
+      return(plot_1)
    })
    
       output$hover <- renderPrint({
@@ -57,7 +57,7 @@ my_server <- function(input, output) {
          fill = "Number of albums label has produced"
       ) 
    })
-   output$plot <- renderPlot(plot)
+   output$plot <- renderPlot(plot())
   
    output$plot_info <- renderText({
       plot_info <- paste("In this scatter plot titled \"Album Rating by Size of Record Label\" the rating of a song is shown on the y-axis,

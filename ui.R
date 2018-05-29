@@ -21,10 +21,11 @@ my_ui <- fluidPage(
                        genre))
     ),
          mainPanel(
-         tabsetPanel(type = "tabs",
-                     tabPanel("Ratings by Label Size", plotOutput("plot"), p(textOutput("plot_info")))
+         #tabsetPanel(type = "tabs",
+                    # tabPanel("Ratings by Label Size", plotOutput("plot"), p(textOutput("plot_info"))),
+                    # tabPanel("Line Graph Plot, ", plotOutput('plot2', click = 'my_click_key'), verbatimTextOutput('plot2_info'))
                      
-            ),
+           # ),
         p("By choosing a music genre from the left widget, you can see how the popularity of genre changed over time.
         The score (out of 10) is calculated by taking the average score of all the songs belonging to this genre.
         You can also click on the graph to see the exact score and corresponding year."),
@@ -33,13 +34,16 @@ my_ui <- fluidPage(
         plotOutput('plot2', click = 'my_click_key'),
         verbatimTextOutput('plot2_info'),
         
-        textInput("uq_search", label = h3("Search for Artist", value = "Enter artist...")),
+        plotOutput("plot"), p(textOutput("plot_info"),
+                              
+        textInput("uq_search", label = h3("Search for Artist"), value = "Enter artist..."),
         
         tableOutput("plot3")
         
         
          )
       )
+)
 )
 
 
