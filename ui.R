@@ -25,10 +25,9 @@ my_ui <- fluidPage(
                   min = 1, max = 475,
                   value = c(1,475)
       ),
-      sidebarPanel(
-        selectInput('genre', label = "Choose a Music Genre:",
-                    genre))
-    ),
+      selectInput('genre', label = "Choose a Music Genre:",
+                    genre)
+      ),
     mainPanel(
       #tabsetPanel(type = "tabs",
       # tabPanel("Ratings by Label Size", plotOutput("plot"), p(textOutput("plot_info"))),
