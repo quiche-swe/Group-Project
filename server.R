@@ -2,6 +2,7 @@
 library(dplyr)
 library(ggplot2)
 library(plotly)
+source("uniqueCalc.R")
 
 my_server <- function(input, output) {
    reactive_scatter <- reactive({
@@ -98,6 +99,12 @@ my_server <- function(input, output) {
       paste0("As shown by the graph above, the average rating score of ",input$genre, " is ",
              round(as.numeric(input$my_click_key$y, 2)), " in ", round(as.numeric(input$my_click_key$x, 2)))
     })
+  })
+  
+  output$plot3 <- renderTable({
+    
+    input_table <- unique_albums %>%
+      filter(input$uq_search == artist) 
   })
 }
 

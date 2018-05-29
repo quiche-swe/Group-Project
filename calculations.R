@@ -15,6 +15,12 @@ bad_albums <- filter(cleaned_reviews, score == 0.0)
 cleaned_reviews$genre_occurrences <- table(cleaned_reviews$genre)[cleaned_reviews$genre]
 cleaned_reviews$albums_label_produced <- table(cleaned_reviews$label)[cleaned_reviews$label]
 
+# Unique album reviews with rank column
+unique_albums <- subset(cleaned_reviews, !duplicated(cleaned_reviews$reviewid, incomparables = FALSE))
+albums_score <- order(-unique_albums$score, unique_albums$title)
+unique_albums$rank <- NA
+unique_albums$rank[albums_score] <- 1:nrow(unique_albums)
+
 # Median and mean scores
 median_score <- summarize(cleaned_reviews, median_score = median(score))
 mean_score <- summarize(cleaned_reviews, mean_score = mean(score))
@@ -111,7 +117,7 @@ good_jazz <- filter(good_labels, genre == "jazz")
 good_undefined <- filter(good_labels, genre == "undefined")
 good_electronic <- filter(good_labels, genre == "electronic")
 good_experimental <- filter(good_labels, genre == "experimental")
-good_pop_rb <- filter(good_labels, genre == "pop_r&b")
+ood_pop_rb <- filter(good_labels, genre == "pop_r&b")
 good_folk_country <- filter(good_labels, genre == "folk_country"
 good_global <- filter(good_labels, genre == "global")
 good_metal <- filter(good_labels, genre == "metal")

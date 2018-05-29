@@ -18,7 +18,8 @@ my_ui <- fluidPage(
                      ),
          sidebarPanel(
            selectInput('genre', label = "Choose a Music Genre:",
-                       genre)
+                       genre))
+    ),
          mainPanel(
          tabsetPanel(type = "tabs",
                      tabPanel("Ratings by Label Size", plotOutput("plot"), p(textOutput("plot_info")))
@@ -30,12 +31,17 @@ my_ui <- fluidPage(
         p(" "),
          
         plotOutput('plot2', click = 'my_click_key'),
-        verbatimTextOutput('plot2_info')
+        verbatimTextOutput('plot2_info'),
+        
+        textInput("uq_search", label = h3("Search for Artist", value = "Enter artist...")),
+        
+        tableOutput("plot3")
+        
+        
          )
       )
-   )
 )
-)
+
 
 shinyUI(my_ui)
 
