@@ -2,7 +2,7 @@ library(magrittr)
 library(dplyr)
 library(ggplot2)
 library(plotly)
-# source("uniqueCalc.R")
+source("uniqueCalc.R")
 
 my_server <- function(input, output) {
    reactive_scatter <- reactivePlot({
@@ -28,7 +28,7 @@ my_server <- function(input, output) {
                x = "",
                y = "Album Score (out of 10.0)"
             )
-         ggplotly(plot) %>%
+         ggplotly(plot_1) %>%
             layout(ragmode = "select")
       } else {
          plot_1 <- plot_ly(genre_reviews, x = ~artist, y = ~score, color = ~score) %>%
@@ -46,7 +46,7 @@ my_server <- function(input, output) {
       }
    })
    
-   output$plot <- renderPlot({plot_1()})
+   output$plot <- renderPlotly({plot_1()})
    
    output$plot1_info <- renderText({
       plot1_info <- paste("In this scatter plot titled \"Album Rating by Genre and Year\", the rating of an album is shown on the y-axis and the artist
@@ -65,15 +65,16 @@ my_server <- function(input, output) {
             y = "Score (out of 10)", # y-axis label 
             color = "Number of albums label has produced",
             size = "Number of albums label has produced"
-         ) 
+         )
+      return(plot_2)
    })
    output$plot <- renderPlot({plot_2()})
    
    output$plot2_info <- renderText({
       plot2_info <- paste("In this scatter plot titled \"Album Rating by Size of Record Label\" the rating of a song is shown on the y-axis,
-                         and the record label size is shown on the x-axis. The size of record label corresponds to the number of albums
-                         that the label has produced. The user can filter for the label size. 
-                         Right now the plot is showing number of albums produced between", input$range[1], sep = " ")
+                          and the record label size is shown on the x-axis. The size of record label corresponds to the number of albums
+                          that the label has produced. The user can filter for the label size. 
+                          Right now the plot is showing number of albums produced between", input$range[1], sep = " ")
       plot2_info <- paste(plot2_info, "and", sep = " ")
       plot2_info <- paste(plot2_info, input$range[2], sep = " ")
       plot2_info <- paste(plot2_info, ".")
@@ -85,6 +86,7 @@ my_server <- function(input, output) {
    })
    
    output$plot_3 <- renderPlot({
+      reactive_genre()
       cleaned_reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
       filter_genre <- cleaned_reviews %>%
          filter(genre == reactive_genre()) %>%
@@ -107,7 +109,7 @@ my_server <- function(input, output) {
    observeEvent(input$my_click_key, {
       output$plot2_info <- renderPrint({
          paste0("As shown by the graph above, the average rating score of ",input$genre, " is ",
-                round(as.numeric(input$my_click_key$y, 2)), " in ", round(as.numeric(input$my_click_key$x, 2)))
+                round(as.numeric(input$my_click_key$y, 3)), " in ", round(as.numeric(input$my_click_key$x, 2)))
       })
    })
    
@@ -118,8 +120,8 @@ my_server <- function(input, output) {
    
    output$plot3_info <- renderText({
       plot3_info <- "By choosing a music genre from the left widget, you can see how the popularity of genre changed over time.
-        The score (out of 10) is calculated by taking the average score of all the songs belonging to this genre.
-        You can also click on the graph to see the exact score and corresponding year."
+      The score (out of 10) is calculated by taking the average score of all the songs belonging to this genre.
+      You can also click on the graph to see the exact score and corresponding year."
       return(plot3_info)
    })
 }

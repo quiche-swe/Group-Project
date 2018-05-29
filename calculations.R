@@ -1,5 +1,40 @@
 library(dplyr)
 
+# if (identical(input$plotType, "ggplotl")) {
+#    plot_1 <- ggplot(genre_reviews, aes(x = artist, y = score)) +
+#       geom_point() +
+#       labs(
+#          title = plot_title,
+#          x = "Artist",
+#          y = "Album Score (out of 10.0)"
+#       )
+#    ggplotly(plot) %>%
+#       layout(ragmode = "select")
+# } else {
+#
+# }
+
+reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
+genre_reviews <- filter(reviews, genre == "rock")
+genre_reviews <- filter(reviews, pub_year == "2017")
+
+plot_title <- paste("reactive_genre", "Album Scores in", sep = " ")
+plot_title <- paste(plot_title, "reactive_year", sep = " ")
+
+# plot_1 <- plot_ly(data = genre_reviews, aes(x = ~artist, y = ~score, color = ~score, colors = "Set1")) %>%
+#    layout(dragmode = "select")
+
+plot_1 <- ggplot(genre_reviews, aes(x = artist, y = score, color = score)) +
+   geom_point() +
+   labs(
+      title = "plot_title",
+      x = "",
+      y = "Album Score (out of 10.0)"
+   )
+ggplotly(plot) %>%
+   layout(ragmode = "select")
+
+
 artists <- read.csv(file = "data/artists.csv", stringsAsFactors = FALSE)
 genres <- read.csv(file = "data/genres.csv", stringsAsFactors = FALSE)
 labels <- read.csv(file = "data/labels.csv", stringsAsFactors = FALSE)
@@ -14,6 +49,12 @@ perfect_albums <- filter(cleaned_reviews, score == 10.0)
 bad_albums <- filter(cleaned_reviews, score == 0.0)
 cleaned_reviews$genre_occurrences <- table(cleaned_reviews$genre)[cleaned_reviews$genre]
 cleaned_reviews$albums_label_produced <- table(cleaned_reviews$label)[cleaned_reviews$label]
+
+# Unique album reviews with rank column
+unique_albums <- subset(cleaned_reviews, !duplicated(cleaned_reviews$reviewid, incomparables = FALSE))
+albums_score <- order(-unique_albums$score, unique_albums$title)
+unique_albums$rank <- NA
+unique_albums$rank[albums_score] <- 1:nrow(unique_albums)
 
 # Median and mean scores
 median_score <- summarize(cleaned_reviews, median_score = median(score))
@@ -111,8 +152,8 @@ good_jazz <- filter(good_labels, genre == "jazz")
 good_undefined <- filter(good_labels, genre == "undefined")
 good_electronic <- filter(good_labels, genre == "electronic")
 good_experimental <- filter(good_labels, genre == "experimental")
-good_pop_rb <- filter(good_labels, genre == "pop_r&b")
-good_folk_country <- filter(good_labels, genre == "folk_country"
+ood_pop_rb <- filter(good_labels, genre == "pop_r&b")
+good_folk_country <- filter(good_labels, genre == "folk_country")
 good_global <- filter(good_labels, genre == "global")
 good_metal <- filter(good_labels, genre == "metal")
 
