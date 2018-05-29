@@ -115,7 +115,7 @@ my_server <- function(input, output) {
    
    output$plot3 <- renderTable({
       input_table <- unique_albums %>%
-         filter(input$uq_search == artist) 
+         filter(tolower(input$uq_search) == artist) 
    })
    
    output$plot3_info <- renderText({
