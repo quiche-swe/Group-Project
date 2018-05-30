@@ -1,4 +1,5 @@
 library(dplyr)
+library(glue)
 
 # if (identical(input$plotType, "ggplotl")) {
 #    plot_1 <- ggplot(genre_reviews, aes(x = artist, y = score)) +
@@ -15,7 +16,6 @@ library(dplyr)
 # }
 
 reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
-genre_reviews <- filter(reviews, genre == "rock")
 genre_reviews <- filter(reviews, pub_year == "2017")
 
 plot_title <- paste("reactive_genre", "Album Scores in", sep = " ")
