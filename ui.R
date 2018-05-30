@@ -109,7 +109,7 @@ my_ui <- fluidPage(
                   ),
                   mainPanel(
                      tabsetPanel(
-                        tabPanel("Graph", plotOutput("plot_3"), verbatimTextOutput('plot3_info'),
+                        tabPanel("Graph", plotOutput("plot_3", click = "my_click_key"), verbatimTextOutput('plot3_info'),
                                  tags$p("Use the dropdown menu to filter the graph to see how differen genres have changed over time.")),
                         tabPanel("Findings",
                                  tags$br(),

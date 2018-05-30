@@ -85,6 +85,15 @@ my_server <- function(input, output) {
    # Ellie's part
    reactive_genre <- reactive({
       input$genre2
+      input$my_click_key
+   })
+   
+   observeEvent(input$my_click_key, {
+      reactive_genre()
+      output$plot3_info <- renderPrint({
+         paste0("As shown by the graph above, the average rating score of ",input$g, " is ",
+                round(as.numeric(input$my_click_key$y, 4)), " in ", round(as.numeric(input$my_click_key$x, 2)))
+      })
    })
    
    output$plot_3 <- renderPlot({
@@ -108,12 +117,7 @@ my_server <- function(input, output) {
       return(plot_3)
    })
    
-   observeEvent(input$my_click_key, {
-      output$plot3_info <- renderPrint({
-         paste0("As shown by the graph above, the average rating score of ",input$g, " is ",
-                round(as.numeric(input$my_click_key$y, 4)), " in ", round(as.numeric(input$my_click_key$x, 2)))
-      })
-   })
+   
    
    output$plot3_info <- renderText({
       plot3_info <- "By choosing a music genre from the left widget, you can see how the popularity of genre changed over time.
