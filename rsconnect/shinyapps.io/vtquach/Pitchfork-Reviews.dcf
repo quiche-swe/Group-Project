@@ -1,0 +1,12 @@
+name: Pitchfork-Reviews
+title: Pitchfork-Reviews
+username:
+account: vtquach
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 351424
+bundleId: 1401494
+url: https://vtquach.shinyapps.io/Pitchfork-Reviews/
+when: 1527717397.17304
+asMultiple: FALSE
+asStatic: FALSE

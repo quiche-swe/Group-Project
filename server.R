@@ -6,6 +6,8 @@ library(shinythemes)
 source("uniqueCalc.R")
 
 my_server <- function(input, output) {
+   # Plot for genre and time to see scores of albums
+   # Scatter plot
    plot_1 <- reactive({
       reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
       if (input$genre1 != "all") {
@@ -40,8 +42,10 @@ my_server <- function(input, output) {
       return(plot_1)
    })
    
+   # Output the plot
    output$plot_1 <- renderPlotly({(plot_1())})
    
+   # PLot description
    output$plot1_info <- renderText({
       plot_1()
       plot1_info <- "In this scatter plot the rating of an album is shown on the y-axis and the artist is shown on  
@@ -54,6 +58,7 @@ my_server <- function(input, output) {
    })
    
    # Corina's part
+   # Album scores based on how big labels are, scatter plot
    plot_2 <- reactive({
       cleaned_reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
       cut_of_label <- filter(cleaned_reviews, label_count >= input$range[1] & label_count <= input$range[2])
@@ -68,8 +73,9 @@ my_server <- function(input, output) {
          )
       return(plot_2)
    })
+   # Output the plot
    output$plot_2 <- renderPlot({plot_2()})
-   
+   # Plot description
    output$plot2_info <- renderText({
       plot2_info <- paste("In this scatter plot titled \"Album Rating by Size of Record Label\" the rating of a song is shown on the y-axis,
                          and the record label size is shown on the x-axis. The size of record label corresponds to the number of albums
@@ -82,11 +88,13 @@ my_server <- function(input, output) {
    })
    
    # Ellie's part
+   # Reactive inputs
    reactive_genre <- reactive({
       input$genre2
       input$my_click_key
    })
    
+   # Clicking function
    observeEvent(input$my_click_key, {
       reactive_genre()
       output$plot3_info <- renderPrint({
@@ -95,6 +103,7 @@ my_server <- function(input, output) {
       })
    })
    
+   # Plot for how genre average scores change over time
    output$plot_3 <- renderPlot({
       reactive_genre()
       cleaned_reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
@@ -116,6 +125,7 @@ my_server <- function(input, output) {
       return(plot_3)
    })
    
+   # Plot description
    output$plot3_info <- renderText({
       plot3_info <- paste("In this line graph titled \"Genre Popularity Over Time\" the score out of 10 is shown on the y-axis,
                           and the year is shown on the x-axis. The user can filter for the genre of music they want and see
@@ -125,6 +135,7 @@ my_server <- function(input, output) {
    })
    
    # Jensen's part
+   # Output table based on reactive inputs
    output$plot_4 <- renderTable({
       input_table <- unique_albums %>%
          filter(tolower(input$uq_search) == artist)

@@ -9,6 +9,7 @@ my_ui <- fluidPage(
    navbarPage(title = "Pitchfork Music Reviews",
       theme = shinytheme("united"),
       tabPanel("Overview",
+               # Main panel introducing the data
                mainPanel(
                   tags$h1("Pitchfork Music Review Data"),
                   tags$div(
@@ -50,7 +51,11 @@ my_ui <- fluidPage(
                      tags$p("We are students at the University of Washington currently taking Informatics 201: Technical Foundations")
                   )
                )
-            ), # end mainTabPanel 0
+            ), # end mainTabPanel
+      # Tab 1 to answer question 1
+      # Corresponds w/ Vince's part in Server.R
+      # Scatter plot of album scores in specific genres
+      # Can be played with to change genre and year
       tabPanel("Genre Album Scores",
                titlePanel("How do albums of specific genres score based on year? Has there been a drop in quality as new artists emerge?"),
                sidebarLayout(
@@ -68,7 +73,8 @@ my_ui <- fluidPage(
                      tabsetPanel(
                         tabPanel("Graph", plotlyOutput("plot_1"),
                                  tags$br(),
-                                 tags$p("(Hover over the points on the plot to see artist name, album name, score, and genre)")),
+                                 tags$p("(Hover over the points on the plot to see artist name, album name, score, and genre)"),
+                                 textOutput("plot1_info")),
                         tabPanel("Findings",
                                  tags$br(),
                                  tags$p("Here we analyzed the bias of PitchFork reviews regarding genre. We questioned whether there was any sort of indication as to the type of genre the writers for 
@@ -81,6 +87,9 @@ my_ui <- fluidPage(
                )
                )
       ), # End of tabPanel 1
+      # Tab 2 to answer question 2
+      # Corresponds w/ Corina's part in Server.R
+      # Scatter plot of album scores and label size
       tabPanel("Label Size",
                titlePanel("Does being a part of a big(ger) record label correlate in an artist producing higher scoring albums?"),
                sidebarLayout(
@@ -95,7 +104,8 @@ my_ui <- fluidPage(
                         tabPanel("Graph", plotOutput("plot_2"),
                                  tags$br(),
                                  tags$p("(Use the slider to filter the table for album sizes; the number represents how many albums the label has 
-                                        produced within the dataframe and so we extrapolated that the more albums a label produced, the bigger they were)")),
+                                        produced within the dataframe and so we extrapolated that the more albums a label produced, the bigger they were)"),
+                                 textOutput("plot2_info")),
                         tabPanel("Findings",
                                  tags$br(),
                                  tags$p("Here we analyzed whether an album produced by a big label would have on average, higher scores than albums produced by independent labels, or labels that had 
@@ -161,6 +171,8 @@ my_ui <- fluidPage(
                   )
                )
       ),# End of tabPanel 3
+      # Table to answer question 4
+      # 
       tabPanel("Specific Artist",
                titlePanel("Do album ratings change with more albums released?"),
                sidebarLayout(
@@ -170,7 +182,12 @@ my_ui <- fluidPage(
                   mainPanel(
                      tabsetPanel(
                         tabPanel("Table", tableOutput("plot_4"),
-                                 tags$p("(Type in an artists' name to get their albums (not case-sensitive but spelling must be correct!)")),
+                                 tags$br(),
+                                 tags$p("Type in an artist's name to get information on their albums. The information will be in a table containing the artist's
+                                        name, their album, their album's score, the year in which it was reviewed, and their ranking amongst all of the reviews
+                                        within the dataset. The name does not need to be properly capitalized but the spelling needs to be correct (Beyonce's
+                                        name needs to have the accute accent over the last e")
+                                 ),
                         tabPanel("Explanation",
                                  tags$br(),
                                  tags$p("We questioned whether or not ratings changed as an artist released more albums (if they got better, worse
