@@ -37,7 +37,8 @@ my_ui <- fluidPage(
          # )
          plotlyOutput("plot_1"),
          plotOutput("plot_2"),
-         plotOutput("plot_3"),
+         plotOutput("plot_3", click = "my_click_key"),
+         verbatimTextOutput('plot3_info'),
          tableOutput("plot_4")
       )
    )

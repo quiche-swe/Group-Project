@@ -98,9 +98,9 @@ my_server <- function(input, output) {
    })
    
    observeEvent(input$my_click_key, {
-      output$plot2_info <- renderPrint({
+      output$plot3_info <- renderPrint({
          paste0("As shown by the graph above, the average rating score of ",input$g, " is ",
-                round(as.numeric(input$my_click_key$y, 3)), " in ", round(as.numeric(input$my_click_key$x, 2)))
+                round(as.numeric(input$my_click_key$y, 4)), " in ", round(as.numeric(input$my_click_key$x, 2)))
       })
    })
    
