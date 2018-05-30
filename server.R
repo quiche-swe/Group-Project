@@ -120,9 +120,10 @@ my_server <- function(input, output) {
    
    
    output$plot3_info <- renderText({
-      plot3_info <- "By choosing a music genre from the left widget, you can see how the popularity of genre changed over time.
-        The score (out of 10) is calculated by taking the average score of all the songs belonging to this genre.
-        You can also click on the graph to see the exact score and corresponding year."
+      plot3_info <- paste("In this line graph titled \"Genre Popularity Over Time\" the score out of 10 is shown on the y-axis,
+                          and the year is shown on the x-axis. The user can filter for the genre of music they want and see
+                          how that genres music has changed over time. Right now the plot is showing", input$genre2, sep = " ")
+      plot3_info <- paste(plot3_info, "music.", sep = " ")
       return(plot3_info)
    })
    

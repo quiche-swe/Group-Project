@@ -67,8 +67,9 @@ my_ui <- fluidPage(
                   mainPanel(
                      tabsetPanel(
                         tabPanel("Graph", plotlyOutput("plot_1"),
-                                 tags$p("Hover over the points on the plot to see artist name, album name, score, and genre")),
-                        tabPanel("Findings",
+                                 tags$br(),
+                                 tags$p("(Hover over the points on the plot to see artist name, album name, score, and genre)")),
+                        tabPanel("Plot Information",
                                  tags$br(),
                                  tags$p("WRITE UP FINDINGS"),
                                  tags$p("WRITE UP MORE IF YOU NEED"))
@@ -88,9 +89,10 @@ my_ui <- fluidPage(
                   mainPanel(
                      tabsetPanel(
                         tabPanel("Graph", plotOutput("plot_2"),
-                                 tags$p("Use the slider to filter the table for album sizes; the number represents how many albums the label has 
-                                        produced within the dataframe and so we extrapolated that the more albums a label produced, the bigger they were")),
-                        tabPanel("Findings",
+                                 tags$br(),
+                                 tags$p("(Use the slider to filter the table for album sizes; the number represents how many albums the label has 
+                                        produced within the dataframe and so we extrapolated that the more albums a label produced, the bigger they were)")),
+                        tabPanel("Plot Information",
                                  tags$br(),
                                  tags$p("WRITE UP FINDINGS"),
                                  tags$p("WRITE UP MORE IF YOU NEED"))
@@ -110,8 +112,9 @@ my_ui <- fluidPage(
                   mainPanel(
                      tabsetPanel(
                         tabPanel("Graph", plotOutput("plot_3", click = "my_click_key"), verbatimTextOutput('plot3_info'),
-                                 tags$p("Use the dropdown menu to filter the graph to see how differen genres have changed over time.")),
-                        tabPanel("Findings",
+                                 tags$br(),
+                                 tags$p("(Use the dropdown menu to filter the graph to see how differen genres have changed over time.)")),
+                        tabPanel("Plot Information",
                                  tags$br(),
                                  tags$p("WRITE UP FINDINGS"),
                                  tags$p("WRITE UP MORE FINDINGS"))
@@ -129,8 +132,8 @@ my_ui <- fluidPage(
                   mainPanel(
                      tabsetPanel(
                         tabPanel("Table", tableOutput("plot_4"),
-                                 tags$p("Type in an artists' name to get their albums (case non-sensitive but spelling is!)")),
-                        tabPanel("Findings",
+                                 tags$p("(Type in an artists' name to get their albums (not case-sensitive but spelling is!)")),
+                        tabPanel("Table Information",
                                  tags$br(),
                                  tags$p("WRITE UP FINDINGS"),
                                  tags$p("WRITE UP MORE"))
