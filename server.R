@@ -114,7 +114,7 @@ my_server <- function(input, output) {
    # Jensen's part
    output$plot_4 <- renderTable({
       input_table <- unique_albums %>%
-         filter(input$uq_search == artist) 
+         filter(tolower(input$uq_search) == artist) 
    })
    
    
