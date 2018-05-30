@@ -59,13 +59,12 @@ my_server <- function(input, output) {
       cut_of_label <- filter(cleaned_reviews, label_count >= input$range[1] & label_count <= input$range[2])
       
       plot_2 <- ggplot(cut_of_label, aes(x = label_count, y = score)) + 
-         geom_point(aes(size = label_count, color = label_count)) + 
+         geom_point(aes(color = label_count)) + 
          labs(
             title = "Album Rating by Size of Record Label", 
             x = "Size of Record Label", # x-axis label 
             y = "Score (out of 10)", # y-axis label 
-            color = "Number of albums label has produced",
-            size = "Number of albums label has produced"
+            color = "Number of albums label has produced"
          )
       return(plot_2)
    })
@@ -92,7 +91,7 @@ my_server <- function(input, output) {
       reactive_genre()
       output$plot3_info <- renderPrint({
          paste0("As shown by the graph above, the average rating score of ",input$g, " is ",
-                round(as.numeric(input$my_click_key$y, 4)), " in ", round(as.numeric(input$my_click_key$x, 2)))
+                round(as.double(input$my_click_key$y), 2), " in ", round(as.double(input$my_click_key$x, 2)))
       })
    })
    
@@ -109,15 +108,13 @@ my_server <- function(input, output) {
          geom_line(mapping = aes(x = pub_year, y = average)) +
          geom_point(mapping = aes(x = pub_year, y = average, color = input$genre2)) +
          labs(
-            title = "Genre Popularity Over Time", 
+            title = "Genre Ratings Over Time", 
             x = "Year (year)", # x-axis label 
             y = "Score (out of 10)", # y-axis label 
             color = "Genre"
          )
       return(plot_3)
    })
-   
-   
    
    output$plot3_info <- renderText({
       plot3_info <- paste("In this line graph titled \"Genre Popularity Over Time\" the score out of 10 is shown on the y-axis,
