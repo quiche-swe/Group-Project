@@ -6,7 +6,7 @@ library(shinythemes)
 source("uniqueCalc.R")
 
 my_ui <- fluidPage(
-   navbarPage(title = "Pitchfork Music Reviews"),
+   navbarPage(title = "Pitchfork Music Reviews",
       theme = shinytheme("sandstone"),
       tabPanel("Overview",
                mainPanel(
@@ -31,7 +31,7 @@ my_ui <- fluidPage(
                         tags$li("The score that the album received (out of 10.0)"),
                         tags$li("The year of review")
                      ),
-                     tags$h2("Audience: "),
+                     tags$h3("Audience: "),
                      tags$p("Anyone who enjoys listening to music (and we have yet to meet someone who doesn't like music) will find this interesting. 
                             However, we feel like those who are passionate about music, regardless of the genre, can really appreciate this data.
                             And so, we've decided to focus this more on those who care about how influencial a company like Pitchfork can be with their reviews."),
@@ -49,8 +49,8 @@ my_ui <- fluidPage(
                      tags$p("Jensen Anderson, Corina Geier, Ellie Qian, and Vince Quach"),
                      tags$p("We are students at the University of Washington currently taking Informatics 201: Technical Foundations")
                   )
-                     )
-               ), # end mainTabPanel 0
+               )
+            ), # end mainTabPanel 0
       tabPanel("Genre",
                titlePanel("How do albums of specific genres score based on year? Has there been a drop in quality as new artists emerge?"),
                sidebarLayout(
@@ -58,11 +58,11 @@ my_ui <- fluidPage(
                      tags$h3("Change the genre and year to see the scoring of albums during that year"),
                      selectInput("genre1", label = ("Choose a genre"),
                                  choices = list("Electronic" = "electronic", "Experimental" = "experimental", "Folk and Country" = "folk/country", "Global (int'l. music)" = "global", "Jazz" = "jazz",
-                                                "Metal" = "metal", "Pop and R&B" = "pop/r&b", "Rap" = "rap", "Rock" = "rock", "Undefined (No genre labeled)" = "", "All" = "all")),
+                                                "Metal" = "metal", "Pop and R&B" = "pop/r&b", "Rap" = "rap", "Rock" = "rock", "Undefined (No genre labeled)" = "", "All" = "all"),
+                                 selected = "rap"),
                      sliderInput("year", "Year:",
                                  min = 1999, max = 2017,
-                                 value = 2015),
-                     tags$hr()
+                                 value = 2015)
                   ),
                   mainPanel(
                      tabsetPanel(
@@ -147,7 +147,8 @@ my_ui <- fluidPage(
                      tags$p("ANSWER THAT QUESTION"),
                      tags$h3("How have reviews for a specific genre changed over time: are some genres \"timeless\" as they are toted to be?"),
                      tags$p("ANSWER THAT QUESTION"),
-                     tags$h3("How has the popularity and quality of an artists' work changed over time?")
+                     tags$h3("How has the popularity and quality of an artists' work changed over time?"),
+                     tags$p("ANSWER THAT QUESTION")
                   ),
                   tags$div(
                      tags$h3("Conclusion"),
@@ -155,6 +156,7 @@ my_ui <- fluidPage(
                   )
                )
       ) # End of tabPanel 5
+   ) # End of navbarPage
 )
 
 shinyUI(my_ui)
