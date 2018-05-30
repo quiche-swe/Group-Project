@@ -7,7 +7,7 @@ source("uniqueCalc.R")
 
 my_ui <- fluidPage(
    navbarPage(title = "Pitchfork Music Reviews",
-      theme = shinytheme("sandstone"),
+      theme = shinytheme("united"),
       tabPanel("Overview",
                mainPanel(
                   tags$h1("Pitchfork Music Review Data"),
@@ -44,14 +44,14 @@ my_ui <- fluidPage(
                         tags$li("How has the popularity and quality of an artists' work changed over time?")
                      )
                      ),
-                  tags$h1("Authors"),
+                  tags$h3("Authors"),
                   tags$div(
                      tags$p("Jensen Anderson, Corina Geier, Ellie Qian, and Vince Quach"),
                      tags$p("We are students at the University of Washington currently taking Informatics 201: Technical Foundations")
                   )
                )
             ), # end mainTabPanel 0
-      tabPanel("Genre",
+      tabPanel("Genre Album Scores",
                titlePanel("How do albums of specific genres score based on year? Has there been a drop in quality as new artists emerge?"),
                sidebarLayout(
                   sidebarPanel(
@@ -98,7 +98,7 @@ my_ui <- fluidPage(
                )
                )
       ), # End of tabPanel 2
-      tabPanel("Genres/Time",
+      tabPanel("Genres Over Time",
                titlePanel("How have genres as a whole (in terms of score) changed over time?"),
                sidebarLayout(
                   sidebarPanel(
@@ -119,7 +119,7 @@ my_ui <- fluidPage(
                   )
                )
       ),# End of tabPanel 3
-      tabPanel("Artist",
+      tabPanel("Specific Artist",
                titlePanel("How has the quality of an artist's work changed over time"),
                sidebarLayout(
                   sidebarPanel(

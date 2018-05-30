@@ -20,4 +20,6 @@ unique_albums <- subset(cleaned_reviews, !duplicated(cleaned_reviews$reviewid, i
 albums_score <- order(-unique_albums$score, unique_albums$title)
 unique_albums$rank <- NA
 unique_albums$rank[albums_score] <- 1:nrow(unique_albums)
-unique_albums <- select(unique_albums, rank, score, artist, title, genre)
+unique_albums <- select(unique_albums, rank, score, artist, title, genre, pub_year) %>%
+   arrange(-pub_year)
+unique_albums <- rename(unique_albums, year = pub_year)
