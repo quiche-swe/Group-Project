@@ -2,14 +2,18 @@ library(magrittr)
 library(dplyr)
 library(ggplot2)
 library(plotly)
-library(glue)
+library(shinythemes)
 source("uniqueCalc.R")
 
 my_server <- function(input, output) {
    plot_1 <- reactive({
       reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
-      genre_reviews <- filter(reviews, genre == input$genre)
-      genre_reviews <- filter(genre_reviews, pub_year == input$year)
+      if (input$genre1 != "all") {
+         genre_reviews <- filter(reviews, genre == input$genre1)
+         genre_reviews <- filter(genre_reviews, pub_year == input$year)
+      } else {
+         genre_reviews <- filter(reviews, pub_year == input$year)
+      }
       
       x <- list(
          title = "Artist (hover to see name)",
@@ -17,7 +21,7 @@ my_server <- function(input, output) {
       
       y <- list(title = "Album Score (out of 10)")
       
-      t <- paste(input$genre, "albums and their scores", sep = " ")
+      t <- paste(input$genre1, "albums and their scores", sep = " ")
       t <- paste(t, "in", sep = " ")
       t <- paste(t, input$year)
       
@@ -25,11 +29,13 @@ my_server <- function(input, output) {
                         type = "scatter",
                         mode = "markers",
                         x = ~artist, y = ~score,
+                        color = ~score,
                         hoverinfo = "text",
                         text = paste0("Artist: ", genre_reviews$artist, "<br>",
                                      "Album: ", genre_reviews$title, "<br>",
-                                     "Score: ", genre_reviews$score)) %>%
-         layout(xaxis = x, yaxis = y, title = toString(t))
+                                     "Score: ", genre_reviews$score, "<br>",
+                                     "Genre: ", genre_reviews$genre)) %>%
+         layout(xaxis = x, yaxis = y, title = toString((t)))
       
       return(plot_1)
    })
@@ -37,8 +43,13 @@ my_server <- function(input, output) {
    output$plot_1 <- renderPlotly({(plot_1())})
    
    output$plot1_info <- renderText({
-      plot1_info <- paste("In this scatter plot titled \"Album Rating by Genre and Year\", the rating of an album is shown on the y-axis and the artist
-                          is shown on the x-axis.")
+      plot_1()
+      plot1_info <- "In this scatter plot the rating of an album is shown on the y-axis and the artist is shown on  
+                     the x-axis. The plot can be interacted with so that a user can choose a genre and a year to  
+                     see how the albums in that genre scored that year. Furthermore, the user can hover over the 
+                     points on the plot to get the artist name, the album name, along with the album score. Albums
+                     are scored on a 0.0 - 10.0 scale. If the artist is undefined (such as in the case of pop and
+                     r&b music in 2017), then the point will be given a 0.0, accredited to an empty artist."
       return(plot1_info)
    })
    
@@ -73,21 +84,21 @@ my_server <- function(input, output) {
    
    # Ellie's part
    reactive_genre <- reactive({
-      input$genre
+      input$genre2
    })
    
    output$plot_3 <- renderPlot({
       reactive_genre()
       cleaned_reviews <- read.csv(file = "data/cleaned_reviews.csv", stringsAsFactors = FALSE)
       filter_genre <- cleaned_reviews %>%
-         filter(genre == input$genre) %>%
+         filter(genre == input$genre2) %>%
          select(genre, score, pub_year) %>%
          group_by(pub_year) %>%
          summarise(average = mean(score))
       
       plot_3 <- ggplot(data = filter_genre) +
          geom_line(mapping = aes(x = pub_year, y = average)) +
-         geom_point(mapping = aes(x = pub_year, y = average, color = input$genre)) +
+         geom_point(mapping = aes(x = pub_year, y = average, color = input$genre2)) +
          labs(
             title = "Genre Popularity Over Time", 
             x = "Year (year)", # x-axis label 
@@ -114,7 +125,7 @@ my_server <- function(input, output) {
    # Jensen's part
    output$plot_4 <- renderTable({
       input_table <- unique_albums %>%
-         filter(input$uq_search == artist) 
+         filter(tolower(input$uq_search) == artist)
    })
    
    
