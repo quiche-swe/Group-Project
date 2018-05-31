@@ -21,7 +21,7 @@ Within the [SQLite] database are 6 data-sets: artists (a table of artist names a
   4. How has the popularity and quality of an artists' work changed over time?
 
 ## Application
-All of these questions can be answered on our shiny application, which can be visisted [here](https://vtquach.shinyapps.io/Pitchfork-Reviews/)
+All of these questions can be answered on our shiny application, which can be visited [here](https://vtquach.shinyapps.io/Pitchfork-Reviews/)
 
 ## Authors
 Jensen Anderson, Corina Geier, Ellie Qian, and Vince Quach
