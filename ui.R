@@ -41,7 +41,7 @@ my_ui <- fluidPage(
                      tags$ul(
                         tags$li("Is there a correlation or even bias of how an album scores due to its genre?"),
                         tags$li("Does being a part of a big(ger) record label correlate in an artist producing higher \"quality\" albums?"),
-                        tags$li("How have reviews for a specific genre changed over time: are some genres \"timeless\" as they are toted to be?"),
+                        tags$li("How have reviews for a specific genre changed over time: are some genres as \"timeless\" as they are toted to be?"),
                         tags$li("How has the popularity and quality of an artists' work changed over time?")
                      )
                      ),
