@@ -189,7 +189,7 @@ my_ui <- fluidPage(
                                  tags$p("Type in an artist's name to get information on their albums. The information will be in a table containing the artist's
                                         name, their album, their album's score, the year in which it was reviewed, and their ranking amongst all of the reviews
                                         within the dataset. The name does not need to be properly capitalized but the spelling needs to be correct (Beyonce's
-                                        name needs to have the accute accent over the last e")
+                                        name needs to have the accute accent over the last e)")
                                  ),
                         tabPanel("Explanation",
                                  tags$br(),
