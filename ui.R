@@ -6,8 +6,8 @@ library(shinythemes)
 source("uniqueCalc.R")
 
 my_ui <- fluidPage(
-   navbarPage(title = "Pitchfork Music Reviews",
-      theme = shinytheme("united"),
+   navbarPage(title = "Pitchfork Data",
+      theme = "united.css",
       tabPanel("Overview",
                # Main panel introducing the data
                mainPanel(
@@ -60,7 +60,7 @@ my_ui <- fluidPage(
                titlePanel("How do albums of specific genres score based on year? Has there been a drop in quality as new artists emerge?"),
                sidebarLayout(
                   sidebarPanel(
-                     tags$h3("Change the genre and year to see the scoring of albums during that year"),
+                     tags$h4("Change the genre and year to see the scoring of albums during that year"),
                      selectInput("genre1", label = ("Choose a genre"),
                                  choices = list("Electronic" = "electronic", "Experimental" = "experimental", "Folk and Country" = "folk/country", "Global (int'l. music)" = "global", "Jazz" = "jazz",
                                                 "Metal" = "metal", "Pop and R&B" = "pop/r&b", "Rap" = "rap", "Rock" = "rock", "Undefined (No genre labeled)" = "", "All" = "all"),
@@ -94,7 +94,7 @@ my_ui <- fluidPage(
                titlePanel("Does being a part of a big(ger) record label correlate in an artist producing higher scoring albums?"),
                sidebarLayout(
                   sidebarPanel(
-                     tags$h3("Select the record label size"),
+                     tags$h4("Select the record label size"),
                      sliderInput("range", "Range:",
                                  min = 1, max = 475,
                                  value = c(1,475))
@@ -122,7 +122,7 @@ my_ui <- fluidPage(
                titlePanel("How have genres as a whole (in terms of score) changed over time?"),
                sidebarLayout(
                   sidebarPanel(
-                     tags$h3("Select a genre"),
+                     tags$h4("Select a genre"),
                      selectInput("genre2", label = ("Choose a genre"),
                                  choices = list("Electronic" = "electronic", "Experimental" = "experimental", "Folk and Country" = "folk/country", "Global (int'l. music)" = "global", "Jazz" = "jazz",
                                                 "Metal" = "metal", "Pop and R&B" = "pop/r&b", "Rap" = "rap", "Rock" = "rock", "Undefined (No genre labeled)" = ""))
@@ -177,7 +177,7 @@ my_ui <- fluidPage(
                titlePanel("Do album ratings change with more albums released?"),
                sidebarLayout(
                   sidebarPanel(
-                     textInput("uq_search", label = h3("Search for Artist"), value = "Enter artist...")
+                     textInput("uq_search", label = h4("Search for Artist"), value = "Enter artist...")
                   ),
                   mainPanel(
                      tabsetPanel(
