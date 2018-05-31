@@ -1,5 +1,8 @@
 @font-face {
+    src: url(fonts/gt-walsheim-light-web.ttf);
     font-family: 'GT Walsheim';
+    src: url(fonts/Tiempos Headline-Black.ttf);
+    font-family: 'Tiempos Headline Black';
     font-style: normal;
     font-weight: 400;
     src: url(../fonts/Ubuntu_400.ttf) format('truetype');

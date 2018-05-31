@@ -98,7 +98,7 @@ my_server <- function(input, output) {
    observeEvent(input$my_click_key, {
       reactive_genre()
       output$plot3_info <- renderPrint({
-         paste0("As shown by the graph above, the average rating score of ",input$g, " is ",
+         paste0("As shown by the graph above, the average rating score of ",input$genre2, " is ",
                 round(as.double(input$my_click_key$y), 2), " in ", round(as.double(input$my_click_key$x, 2)))
       })
    })

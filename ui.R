@@ -6,6 +6,9 @@ library(shinythemes)
 source("uniqueCalc.R")
 
 my_ui <- fluidPage(
+   tags$head(
+      includeCSS("www/united.css")
+   ),
    navbarPage(title = "Pitchfork Data",
       theme = "united.css",
       tabPanel("Overview",
@@ -122,7 +125,7 @@ my_ui <- fluidPage(
                titlePanel("How have genres as a whole (in terms of score) changed over time?"),
                sidebarLayout(
                   sidebarPanel(
-                     tags$h4("Select a genre"),
+                     tags$h4("Select a genre to see its average rating throughout the years"),
                      selectInput("genre2", label = ("Choose a genre"),
                                  choices = list("Electronic" = "electronic", "Experimental" = "experimental", "Folk and Country" = "folk/country", "Global (int'l. music)" = "global", "Jazz" = "jazz",
                                                 "Metal" = "metal", "Pop and R&B" = "pop/r&b", "Rap" = "rap", "Rock" = "rock", "Undefined (No genre labeled)" = ""))

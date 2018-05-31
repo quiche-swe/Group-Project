@@ -5,8 +5,8 @@ account: vtquach
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 351424
-bundleId: 1401689
+bundleId: 1401860
 url: https://vtquach.shinyapps.io/Pitchfork-Reviews/
-when: 1527724999.83566
+when: 1527734894.32454
 asMultiple: FALSE
 asStatic: FALSE
